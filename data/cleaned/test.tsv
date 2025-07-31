@@ -1,0 +1,939 @@
+verb	label	sentence	start_char	end_char
+is	STATIVE	This is the first in a series of articles by guest blogger The Apocalyptic Housewife .	5	6
+is	STATIVE	Somewhere in California, a blighted, mosquito-vector abandoned property is about to get an echinacea dose via seedbomb.	72	73
+combines	STATIVE	Seedbombing combines elements of childhood disgruntled mudbomb-hurling; the balance of meticulousness and zen that good gardeners possess; and my own forte, the invisibility and vigilance of a sniper.	12	19
+is	STATIVE	The first step to seedbombing is: 1.	30	32
+is	STATIVE	Understand that a job worth doing is worth doing crappily.	34	35
+be	STATIVE	Use seeds of any kind, even dumpster-salvaged ones, or the ones that might be too old for the garden.	75	76
+going	DYNAMIC	You're going to be throwing them.	7	11
+were	STATIVE	Mine were more or less matzoh-ball size and shape, out of habit.	5	8
+worked	DYNAMIC	This worked out pretty well.	5	10
+kept	DYNAMIC	Today, I kept it simple.	9	12
+went	DYNAMIC	The leftovers went onto the jungles alongside the freeway offramps.	14	17
+need	STATIVE	First lesson learned -- you need at least two people to seedbomb from a vehicle .	28	31
+driving	STATIVE	The first responsibility should be driving safely.	35	41
+found	DYNAMIC	I found this hard to do while also avoiding cops, dealing with the camera and the car window, scoping out angles of approach for throwing, etc.	2	6
+are	STATIVE	Plus, those things are crumbly.	19	21
+is	STATIVE	Seedbombing is a hit-or-miss way for change to take root, pun intended.	12	13
+is	STATIVE	This is also good practice for looking lost and cluelessly invisible.	5	6
+is	STATIVE	There is one over-riding message to this -- Quit being such a goddamned perfectionist.	6	7
+made	DYNAMIC	Yes, yes, I know, you know of much better places to never throw those seedbombs you haven't made.	92	96
+put	DYNAMIC	You could get better soil if you put it on the shopping list.	33	35
+have	STATIVE	You undoubtedly write much better and could have a real serious article with awesome non-blurry pictures taken by a person who actually can get the timer to work for a goddamn change.	44	47
+are	STATIVE	The actions that you never do are absolutely perfectly effective, in your imagination.	30	32
+is	STATIVE	A job worth doing is worth doing crappily.	18	19
+is	STATIVE	This blog is the digital proof.	10	11
+be	STATIVE	They'll be glad to know it is catching on among the under-60 set.	8	9
+used	DYNAMIC	I used to see this old scary dude walking around checking the trees in Griffith Park for Dutch Elm Disease.	2	5
+was	STATIVE	Didn't know there was a name for this.	18	20
+was	STATIVE	That was nice of you.	5	7
+is	STATIVE	There is no such thing as too many flowers.	6	7
+do	DYNAMIC	Actually, I do that, too.	12	13
+makes	STATIVE	It makes me a little nicer.	3	7
+been	STATIVE	This has been a bad week for liars.	9	12
+said	DYNAMIC	First the holocaust survivor who said she was literally raised by wolves turns out to be just a regular, if depressed, person.	33	36
+were	STATIVE	In the vividly told book, Ms. Seltzer wrote about her African-American foster brothers, Terrell and Taye, who joined the Bloods gang when they were 11 and 13.	143	146
+did	STATIVE	Ms. Seltzer told The Times last week, “One of the first things I did once I started making drug money was to buy a burial plot.”	65	67
+said	DYNAMIC	"This is my favorite line in the whole NYT article: ""Sarah McGrath, the editor at Riverhead who worked with Ms. Seltzer for three years on the book, said she was stunned to discover that the author had lied."""	148	151
+pretend	STATIVE	So we all pretend we’re experts.	10	16
+are	STATIVE	The end result of such roundtables, one can only fear, could be that the only books depicting people of color that get published are those that do not challenge white assumptions.	129	131
+were	DYNAMIC	I can't help but wonder if Ms. Seltzer's book with all it's far-fetched, tales-from-the-urban-jungle flair, would have passed the smell test were it read by a more diverse panel of editors.	141	144
+wonder	DYNAMIC	Comment #3, by Sarah Schulman I wonder why they didn't present their books as novels.	32	37
+wonder	DYNAMIC	Comment #4, by Sarah Schulman I wonder why they didn't present their books as novels.	32	37
+got	DYNAMIC	By the time I got to Asheville, I was nearing the end of my journey and the bottom of my wallet.	14	16
+was	STATIVE	The last thing on my mind was spending money: it was beautiful outside, and there were free things to do everywhere.	26	28
+had	STATIVE	When I'd posted on Facebook that I was coming to town, no fewer than three people told me I just had to visit the Tupelo Honey Cafe .	97	99
+made	DYNAMIC	Our food is fresh, made from scratch, sassy and scrumptious.	19	22
+like	STATIVE	Our cuisine salutes our love of Southern traditions at the table, but like the good people of Asheville, marches to its own drum.	70	73
+was	STATIVE	I was convinced but I wasn't alone.	2	4
+was	STATIVE	On a sunny Sunday afternoon, the waiting list was an hour long.	46	48
+got	DYNAMIC	By the time I finally got a seat at the counter, I was starved.	22	24
+took	STATIVE	"It took me about thirty seconds to pick out the Charleston Chicken Sandwich: ""grilled marinated free-range chicken breast on sourdough with melted havarti, romaine lettuce and cranberry mayonnaise""."	3	6
+seen	DYNAMIC	I've visited plenty of farm-to-fork restaurants, and this one may be the best I've seen at self-marketing.	83	86
+had	DYNAMIC	There's nothing wrong with it: the food in those jars is probably delicious, though I question whether the $10 tupelo honey had to come from Florida or if it's produced locally.	124	126
+built	STATIVE	Either way, it's nice to see a restaurant built on ethics that also happens to be incredibly busy.	42	46
+found	DYNAMIC	I found myself silently thanking the chicken for its delicious contribution.	2	6
+take	DYNAMIC	I stopped so I could take the rest home and taste it again later.	21	24
+took	STATIVE	Later when I stopped eating and lifted my napkin from my lap, it took approximately three seconds for someone to take my food away to be boxed up.	65	68
+appeared	STATIVE	But wow, it sure improved once I appeared to be some sort of food critic or travel writer.	33	40
+talk	DYNAMIC	I could talk about Asheville for weeks, but it's time to move on.	8	11
+got	DYNAMIC	Remember when you got your first bike?	18	20
+ride	DYNAMIC	Well, these days, most kids want an Xbox for their birthday; their parents ride around in cars with seatbelts, talking on their phones .	75	78
+took	DYNAMIC	When Andrew decided to leave town for a few years' schooling in NYC, friends and cohorts took over operations.	89	92
+had	STATIVE	By the time Andrew returned, Troy Bike Rescue (let's call it TBR) had a life of its own.	66	68
+get	STATIVE	They get it.	5	7
+lets	DYNAMIC	More than a hobby, it's a way of traveling through the world that lets you interact, use your muscles, breathe fresh air -- all for the cost of a free dumpster bike.	66	69
+are	STATIVE	When I visited the TBR shop, it was packed with frames, wheels, gears, chains, handlebars, kids, and anarchist art (the space is being donated by some supporters who are also anti-capitalist activists).	166	168
+are	STATIVE	For a few hours, the doors are open to anyone who walks in.	27	29
+are	STATIVE	Tools are available, and volunteers will help with advice and knowledge.	6	8
+selling	STATIVE	The main focus of TBR, however, is not selling bikes.	39	45
+left	DYNAMIC	And as we left at the end of the workshop, a woman walked up to Andrew.	10	13
+do	DYNAMIC	I love what you do, she said.	16	18
+have	STATIVE	I have a whole bunch of bikes to give you.	2	5
+ride	STATIVE	You too can change the world: all you have to do is ride a bike.	52	55
+means	STATIVE	Try This at Home: Ride Around Fall is here, which (in most places) means great riding weather.	67	71
+have	STATIVE	It doesn't have to be perfect, just good enough to get you places.	11	14
+use	DYNAMIC	Even if your life requires four wheels, you can use a bike for local errands.	48	50
+need	STATIVE	Ride it to the corner store when you need milk, instead of driving across town to the grocery store.	37	40
+carry	DYNAMIC	Tell the store owner what you like, and see if he'll carry it.	53	57
+driving	DYNAMIC	Then think of it this way: by riding your bike instead of driving your car, you're reducing your consumption of fossil fuels.	58	64
+keep	STATIVE	You can even calculate the money you save on gas, and keep it in a jar for a rainy day.	54	57
+kept	STATIVE	Even kept Pansy in the basket as my Toto.	5	8
+had	DYNAMIC	One of my dear friends who can't drive to due to combat injuries had her ride stolen while we were sharing a beer in broad daylight last weekend.	65	67
+works	STATIVE	Her partner is a peace corps alum who also works in a bike shop.	43	47
+look	STATIVE	David DeWitt doesn't look like a farmer.	21	24
+runs	STATIVE	He runs the Rock Spray nursery, a Certified Natural provider of evergreens and ornamentals.	3	6
+work	STATIVE	Here, David and his partner Arthur Teubner work year-round growing heirloom and hardy fruits and veggies to sell at market.	43	46
+wear	DYNAMIC	But farming on the Outer Cape is the sort of Sisyphian challenge that can wear anybody out.	74	77
+left	STATIVE	Last season it was a fertile veggie bed -- but it was left un-fertilized as an experiment.	54	57
+says	DYNAMIC	This is what happens, David says.	28	32
+have	STATIVE	You have to keep feeding it organic material, or it turns back into sand.	4	7
+been	STATIVE	It's always been this way in North Truro.	12	15
+used	STATIVE	There used to be a local tradition in this area: at each spring tide , the local community would head out to the bogs and marshes to harvest the grasses.	6	9
+called	STATIVE	"This was called ""salt marsh haying""."	9	14
+has	STATIVE	Salt marsh hay has no weed seeds, and it doesn't compact as heavily as other types of hay.	15	17
+cost	DYNAMIC	It worked -- but it cost money, and it disappeared fast into the hungry ground.	20	23
+got	STATIVE	David isn't giving up -- in fact, he's got plans and ideas to refashion North Truro's farming community.	39	41
+got	STATIVE	David isn't alone: he's got the support (and companionship) of a growing group of gamechangers.	24	26
+start	DYNAMIC	If, someone could start bedding the outer cape's horses, with this Hay/Straw.	18	22
+make	DYNAMIC	This would also, make it more profitable.	17	20
+have	STATIVE	They wouldn't have to be standing on the acidic sand all of the time.	14	17
+used	DYNAMIC	The straw/hay could also be a form of supplemental food, for livestock/horses, which has been used in before times.	94	97
+separated	DYNAMIC	The straw, should be separated from the manure and dried in the air, then buised, by hooves.	21	29
+intended	DYNAMIC	These characters are like Zombies (pun intended), they just keep coming back to life.	39	48
+think	STATIVE	"I don't think you can ""get off"" any of these, you have to triangulate your decision across several nodes of popular culture, a triangulation that has to revolve around the audience (young adult -- Twilght."	8	12
+work	DYNAMIC	So what sort of matrix board do you have to create to know that a NC-17 comedy horror Zombie video game will work, but a PG-13 young adult time-travelling Vampire TV show won't?	109	113
+think	STATIVE	If you broaden your scope a bit, I think it would be difficult to find a time over the last 40 years or so when any of these four archetypes didn't have a level of bubbling popularity via books, comic books, tv, movies, video games, music.	35	39
+comes	DYNAMIC	Publishers, producers, editors, TV execs, they all have to calibrate their decisions based on so many factors, and yet even with access to sophisticated data it often comes down to human factors.	167	171
+says	STATIVE	Somebody at AMC is greenlighting The Walking Dead based partly on historical evidence that says people like Zombies, but also partly on the notion that this particular iteration will have a new twist that will bring new people into the (zombie and AMC) tent .	91	94
+make	DYNAMIC	Hey, if they can make Aliens and Cowboys , anything is possible.	17	20
+inspired	DYNAMIC	This post was inspired by a recent post by Grant McCracken .	14	21
+says	DYNAMIC	Matthew Duhan says: July 26, 2010 at 5:13 pm	14	18
+play	DYNAMIC	I don't know about Pirate Zombies v. Ninja Vampires, but there is a game where you can play to become Zombies, Ninjas, Pirates, and Mad Scientists.	87	90
+find	DYNAMIC	You can find more information on our website.	8	11
+add	DYNAMIC	We do have an expansion planned, which will add Vampires (among other Types) to the mix.	44	46
+performed	STATIVE	Incredibly effectively performed without a doubt.	23	31
+sit	STATIVE	I could sit and watch all day long if I didn't have school..or life to stay me from doing it!	8	10
+consider	DYNAMIC	If you want to have a model for large or extendible characters, I would like to suggest that we consider (again) the model of TeX and the Computer Modern fonts.	96	103
+done	DYNAMIC	Barbara Beeton of the AMS has also done interesting work on math font layout in some ISO workgroup.	35	38
+include	DYNAMIC	Between =-=-=-= lines I'll include a piece I wrote about that in relation to the Elsevier Science DTD's.	27	33
+including	STATIVE	A generic mechanism for counters, including some rules for presentation of counters, is as follows.	34	42
+start	STATIVE	- All top-level counters start at the value 0 (zero) at the beginning of the document.	25	29
+numbered	DYNAMIC	- If the |id| attribute is missing, the counter is not incremented, and the element is not numbered.	91	99
+referenced	DYNAMIC	This means that tables and figures always have an |id| attribute even when they are not referenced.	88	98
+numbered	STATIVE	(Or are there also cases where tables and figures are not numbered?)	58	67
+described	STATIVE	There are (at least) the following exceptions to the algorithm described above:	63	71
+form	STATIVE	The contents of a figure form one (physical) entity, but inspection of the contents show that there are logical sub-figures (hidden) inside the figure.	25	28
+interrupted	DYNAMIC	Numbering in lists, or sub-numbering in equations, is interrupted.	54	65
+continues	STATIVE	Example: a numbered list with items 1, 2, 3, is followed by a paragraph of text (the || is on the same level as the |<l>|), and then the list continues 4, 5, 6.	142	150
+interrupted	STATIVE	The intention of the author appears to be {\em one\/} list, but this list is interrupted.	77	88
+occur	DYNAMIC	When a figure (as far as we know, hidden sub-components occur only with figures.)	56	60
+enables	STATIVE	This enables generation of the labels of the sub-figures.	5	11
+represented	STATIVE	where the counter strings (4 1) and (4 2) are represented as `4a' and `4b' (but this presentation is application-dependent of course).	46	56
+identify	STATIVE	the picture in |fig4| contains two labels, `a' and `b', that identify sub-figures.	61	68
+referenced	STATIVE	Both the figure as a whole and the individual sub-figures are referenced.	62	72
+add	DYNAMIC	"If we add an attribute to the start tag we can achieve this: |<fig id=fig4 comp=""a b""^gt;|."	6	8
+suggests	STATIVE	"Unfortunately, the attribute |comp=""a b""| also suggests a presentation."	47	54
+refer	STATIVE	where |4|, |(4 1)and |(4 2) refer to the same object (physical figure) in the document instance.	28	32
+stands	STATIVE	where |eq$1is the unique |id assigned to equation~(1'), and |label(eq1)| stands for the label of the equation with id=eq1.	73	78
+look	STATIVE	(Lists look like a special case of nesting: numbering of list items normally starts with 1, but every list item must have an \verb|id| that is unique within the document.	7	10
+numbered	DYNAMIC	This could be achieved if we also numbered the parent element \verb|<l^gt;|.)	34	41
+numbered	DYNAMIC	and the author has numbered the list items as 1, 2, 3, 4.	19	26
+agreed	DYNAMIC	We agreed earlier that one of the guiding principles is to follow the author unless there are errors in the manuscript.	3	8
+intended	STATIVE	HTML-Math is intended to allow ... as well as rendering to graphical bitmapped displays.	13	20
+use	DYNAMIC	This is the documentation of our article DTD, and it contains tables with *all* symbols and characters we use in typesetting our products.	106	108
+make	DYNAMIC	Elsevier Science is in discussion with several societies about the possibility of completing a font set that covers all this, and perhaps more, and make it freely available.	148	151
+used	DYNAMIC	This is used in chemical formulas, and is different from an arrow or brace AS ORNAMENT, that adjusts its width to the text underneath it.	8	11
+occur	STATIVE	In example 2 a lot of reserved words occur: from, to, of.	37	42
+see	DYNAMIC	I did not see anything wrong in Bruce's description --all I was trying to do was to fill in the gaps in the description as I perceived --	10	12
+see	DYNAMIC	The meeting discussed Bruce's new proposal, see:	44	47
+allowed	STATIVE	o Whether the character is allowed as the first or subsequent characters in an identifier.	27	33
+wanted	STATIVE	Bruce said he wanted to avoid potential naming conflicts with other groups wishing to define new HTML tags.	14	19
+makes	DYNAMIC	Neil explained that this makes it much easier to write the line breaking algorithm.	25	29
+make	DYNAMIC	The features needed for math make it inappropriate to use the HTML table tags.	29	32
+suggests	DYNAMIC	The current inability to call the browser to handle such nested tags suggests we need to take a cautious approach.	69	76
+used	DYNAMIC	How can CSS based style sheets influence the style properties used within plugins?	62	65
+made	DYNAMIC	Action: Neil to investigate Netscape Navigator 3.0 plug-in SDK to see what improvements have been made to the api.	98	101
+occur	DYNAMIC	One short term solution would be to add parameters to the math tags to specify the context in which the elements occur, e.g.	113	118
+allow	DYNAMIC	The control panel for the html-math plug-in would allow the user to set the font size to be used in these contexts.	50	54
+supported	STATIVE	This could be supported via SGML tags and attributes.	14	22
+allow	STATIVE	Also, this will allow us to handle complex expressions appearing as embellishments to other complex expressions correctly.	16	20
+works	DYNAMIC	Mathematica's parsing, which works in a manner similar to what Bruce describes, has no problem handling complex embellishments as in your example.	29	33
+see	DYNAMIC	Perhaps I am too familar with the algorithm and that I filled in pieces missing in Bruce's description, but I didn't see anything wrong with his description.	117	119
+made	DYNAMIC	Fibonacci's formula instead of equation 1.13 --this made listening to cross-referenced material easier.	52	55
+performed	DYNAMIC	AsTeR also performed the other kind of sub-expression naming which I think got discussed yesterday during the meeting.	11	19
+implemented	STATIVE	"--""folding"" to use Dave's terminology-- AsTeR also implemented a fairly straight-forward naming algorithm for giving meaningful names to sub-expressions e.g."	51	61
+suspect	STATIVE	"However, even without the intelligence to recognize two semantically equivalent instances of a subexpression, ""variable substitution"" or ""folding"" as Dave refers to it in his minutes is *really* useful for speech and I suspect it would be very useful for small visual displays."	219	225
+had	DYNAMIC	In fact after I implemented the variable substitution in AsTeR Rich Zippel at Cornell pointed out that symbolic math systems in the early 70's had to implement something analogous to display complex expressions since the displays available at the time were not as graphically rich as what we have today.	143	145
+agree	STATIVE	"I agree with Ron Whitney, and should have said so before, that the effort that has gone into this proposal is substantial, and this is really concrete stuff we can ""chew on""."	2	6
+see	STATIVE	I also see that extensible languages are hard to realize within the possibilities of the SGML language.	7	9
+written	DYNAMIC	I certainly support the use of ISO TR 9573 entity names for mathematical and technical symbols, as I have written earlier.	106	112
+follow	STATIVE	My own perceptions of this committee's work to date follow.	52	58
+look	DYNAMIC	While the immediate goal of an HTML-Math capability might have been to simply render math visually (and perhaps this was the goal of HTML-Math 3), that goal has been considerably expanded as we look at issues now.	194	197
+give	DYNAMIC	I was hoping, and still do, that formal support such as this would give a direct means of filtering ISO 12083 math into HTML-math.	67	70
+gives	STATIVE	Support in this way gives strong acknowledgement to prior SGML work.	20	24
+found	DYNAMIC	While Stephen himself broadcasts at a very powerful wattage, I've found the committee members from WRI quite accommodating and undogmatic.	66	70
+wanted	STATIVE	I asked the question because I wanted to know how feasible the mechanisms are that Bruce describes.	31	36
+agree	STATIVE	I agree with Ron that there is some politics involved as well.	2	6
+got	DYNAMIC	As an aside: at the SGML Europe'96 conference Roy Pike attended the meeting of the committee responsible for ISO 12083, chaired by Eric van Herwijnen, and we got him to consent to the idea that there will always be users who need/insist on a P(resentation) (geometric, visual) notation.	158	160
+placed	STATIVE	This is enough to allow anchor's within math, and math in text in math, with the burden placed on the plugin.	88	93
+is	DYNAMIC	It is just when you try to embellish an operator.	3	4
+works	DYNAMIC	"Since the details of why a prefix embellishing operator sometimes ""works"" right and sometimes doesn't are probably beyond most authors, I think we should avoid them."	66	72
+act	DYNAMIC	with the information that &big can act as a prefix embellishment operator this yields:	35	37
+act	DYNAMIC	If each operator has a property indicating that it can act as an embellishment on other operators, then we can use this fact to make the above parse as	55	57
+defined	STATIVE	In essence we sort the operator precedence reduction rules into a sequence that resolves potential ambiguities between different operator roles defined by the dictionary for each symbol.	144	150
+including	STATIVE	You have already asserted that people are comfortable with dictionary definitions for the roles of symbols as prefix, infix or postfix operators (including their precedences).	145	154
+appeared	DYNAMIC	Early tales of Madame White Snake appeared in China as early as the Song Dynasty, and initially her portrayal was fairly direct, as a villainous demon who drains the life force out of her human husband.	34	41
+took	DYNAMIC	She took on the virtues of a traditional Chinese female, particularly forbearance”.	4	7
+refers	STATIVE	It refers to a woman who is dangerously attractive, and lures men to their downfall with her sexual attractiveness.	3	8
+finds	DYNAMIC	Toyoo, her human lover in “Lust of the White Serpant” cannot shake the image of her beauty from his mind and dreams of her, and finds himself “disturbed and agitated” by her “ethereal beauty”.	128	132
+follows	DYNAMIC	In “Eternal Prisoner,” Madame White Snake’s bewitching beauty follows her lover Hsü into his dreams, and the next morning “he was so distracted that he could not concentrate on doing business.” “Eternal Prisoner under the Thunder Peak Pagoda.” Trans.	62	68
+fills	STATIVE	In her essay analyzing the noir film from a feminist perspective, Christine Gledhill writes “Not only is the hero frequently not sure whether the woman is honest or a deceiver, but the heroine’s characterisation is itself fractured so that it is not evident to the audience whether she fills the [femme fatale] stereotype or not”.	286	290
+serve	STATIVE	The complications in her character serve to undercut the ostensible didactic intent of these stories.	35	39
+comes	DYNAMIC	In both stories, Madame White Snake’s secret is uncovered and a monk comes to exorcise her, and she is eventually rendered powerless and trapped under a pagoda.	69	73
+took	DYNAMIC	In “Lust,” the priest informs Toyoo “Those creatures took advantage of your fair looks and tempted you.	53	56
+depicted	STATIVE	If they were, Madame White Snake would be unmistakably depicted as an evil character.	55	62
+leaves	DYNAMIC	she gushes to him in “Lust.” Readers must also acknowledge that her human lover is breaking his promise to her when he leaves her.	119	124
+take	STATIVE	Please, since we are already married, take me back, and let’s stay together the rest of our lives.	38	41
+made	DYNAMIC	” the male protagonist breaks a promise he made to his concubine lover, and suffers for it, suggesting that traditionally, loyalty and keeping ones word was valued on the man’s part as well as a woman’s.	43	46
+enjoyed	DYNAMIC	Readers of early versions of the story might have been cheering for the defeat of this demon disguised as a beauty, and would have enjoyed reading the stories for the lurid horror details and later her crushing defeat.	131	137
+argues	DYNAMIC	In an essay on the femme fatale heroines of film noir, Janey Place argues that the strong behavior of the female characters supersedes the moral lessons supposedly imparted by their morals at the end.	67	72
+enjoyed	DYNAMIC	This resistant reading of the text may be too colored by modern viewpoints, since it is impossible to know for certain what readers in the past enjoyed about these stories.	144	150
+announced	DYNAMIC	On that date Jennings Lambeth, president of Youngstown Sheet and Tube Company, announced that most of the steel company’s Campbell Works would close.	79	87
+had	STATIVE	Mahoning County was a one-industry area, and the people of Youngstown, Struthers, Campbell, Boardman Township, and the numerous other small towns and villages in the area only had one main employer: the steel mills.	176	178
+had	STATIVE	Petitions, protests, rallies, collectivization, and even the takeover of a steel company’s headquarters were all attempted in a desperate movement by those in the industry to preserve the only source of employment that this town had.	229	232
+identify	DYNAMIC	When examining the area’s history, culture, and economic situation we can identify four main reasons: the refusal of the international leadership of United Steelworkers of America to support their union’s Youngstown branch, the lagging international steel market, the lack of a clear, organized vision for individual initiatives such as the Save Our Valley Campaign, and crippling regionalism which caused animosity between different small towns in the region, all contributed in some way to the failure of the workers and union leaders to save the industry.	74	81
+affected	DYNAMIC	Although it affected Youngstown and the surrounding area more than it affected other regions, the local people simply could not solve a national crisis on a local level.	12	19
+played	DYNAMIC	During the Civil War, Youngstown played a vital role in supplying the Union army with iron products.	33	38
+continued	DYNAMIC	The town continued to prosper, driven by the flux of immigrants pouring in with the hopes of employment at the mills.	9	17
+continued	STATIVE	This prosperity continued until the late 1920s, when the Great Depression hit the area hard.	16	24
+made	DYNAMIC	Finally, the outbreak of the Second World War made iron and steel important again, and Youngstown was bolstered out of its economic standstill into a fast-paced period of booming growth.	46	49
+making	DYNAMIC	At the same time, stricter governmental standards for environmental protection and the growth of imported steel were making it harder to produce and market American steel parts, and the overeager shareholders in the companies’ stock were pushing for more and more of their share of the pie.	117	122
+send	DYNAMIC	The announcement of the closing of the mills in 1977 was the beginning of a downward spiral, which would send the entire valley into chaos and ruin.	105	108
+closed	DYNAMIC	Between 1977 and 1981, a total of five mills were closed and approximately 25,000 jobs were lost countywide.	50	55
+set	DYNAMIC	Meetings of union officials and mill bosses were hurriedly set up in an attempt to persuade the powers that be to reconsider their statement.	59	61
+sought	DYNAMIC	Without the mills, people sought other places of employment in adjoining states or even other areas of the country.	26	31
+did	DYNAMIC	Those that could afford to move did so; those that couldn’t afford to move mostly ended up on the streets.	32	34
+needed	STATIVE	The workers decided they needed to do something to save their city, and so they mobilized in a variety of ways.	25	30
+given	DYNAMIC	The petition was circulated, eventually including thousands of signatures; it was then given to USWA representatives to present to President Carter in Washington.	87	91
+had	STATIVE	The International chapter of the USWA had much more lobbying power, but they refused to support the local union members.	38	40
+turned	DYNAMIC	Lykes ignored the letters, so the Coalition turned once again to the federal government.	44	49
+following	DYNAMIC	Finally, following the shutdown of US Steel’s plant in 1980, local union leaders congregated outside the US Steel Headquarters in Youngstown.	9	17
+took	DYNAMIC	They invited local people and politicians to witness the scene, then charged the Headquarters and took it over.	98	101
+stayed	DYNAMIC	The workers stayed there until the next day, when US Steel declared that they were ready to talk about selling the mill.	12	17
+made	DYNAMIC	These attempts to save the mills were hindered by several major factors, including the decline of the world steel market, which made American steel impossible to sell or export.	128	131
+drew	STATIVE	Also, international competitors drew on a large supply of very cheap labor.	32	35
+affected	DYNAMIC	Steel demand worldwide was beginning to decline, and it affected both domestic and foreign companies.	56	63
+suggests	STATIVE	As the name suggests, local leaders wanted to instill the people of Youngstown with a fierce sense of urgency, driving them forward to confront steel companies and owners and help secure the future of the region.	12	20
+employed	DYNAMIC	Marches, speeches, and letter writing were all employed to help stimulate the Campaign and rally the people.	47	54
+had	STATIVE	College tuition, clothes, food, and heating all had to come before donations to non-profit organizations.	48	50
+had	STATIVE	People outside of the area had no personal investment in the mills, and so it was difficult to convince anyone from out of the county to contribute funds.	27	29
+proved	STATIVE	The lack of money proved to be crippling, because it prevented the organizations involved from purchasing the mills to run collectively.	18	23
+do	DYNAMIC	Without funds, the Save Our Valley Campaign could do nothing major to help salvage the city’s dying economy.	50	51
+seemed	STATIVE	No one seemed to know just how to go about fixing the problems.	7	12
+did	DYNAMIC	Letters and petitions were all very well, but they did little to improve the situation.	51	53
+proceed	DYNAMIC	Beyond that, no one knew how they should proceed: everyone knew that saving the mills was important, but nobody stepped forward with a full-fledged plan to do it without losing huge amounts of money and dragging even more people down.	41	48
+did	DYNAMIC	Without funds to drive the efforts, or even a real plan of action, the Save Our Valley Campaign did more harm than good.	96	98
+did	DYNAMIC	People became excited and waited for the mills to reappear, but they never did.	75	78
+representing	STATIVE	United Steel Workers of America was the union representing the Youngstown steel workers when the closings hit.	46	57
+had	STATIVE	Besides incompetence, the USWA had one other major reason for rejecting their local counterpart: fear of socialism.	31	33
+see	DYNAMIC	Obviously the union itself was not afraid of socialist action, but they worried that the federal government might see the efforts of Youngstown workers to collectivize as a movement towards socialism and perhaps even communism.	114	116
+supported	DYNAMIC	If the USWA supported the efforts to revive the mills and encouraged worker control and ownership of the factories, then the government (and potentially other important people and institutions as well) might begin to think that the UWSA leaders were encouraging socialism.	12	20
+mean	STATIVE	This would mean that UWSA would lose credibility with the American government and its people, something they could not afford to do.	11	14
+making	STATIVE	People from each town work, shop, eat, and socialize in towns separate from their own, making each town strongly dependent on every other town.	87	92
+finds	STATIVE	Two blocks over one finds Boardman, a well-off township with a reputation for rich but unsuccessful schools.	20	24
+takes	DYNAMIC	Oftentimes this regionalism takes the form of bizarre forms of hatred, with certain towns becoming sworn enemies of others.	28	32
+agree	DYNAMIC	In some instances, small companies would express interest in helping the movement or in relocating their business in the area, but because of regional pride no one could ever agree where the new businesses should relocate.	175	179
+look	STATIVE	You look exhausted,?	4	7
+spoke	DYNAMIC	she spoke again.	4	8
+got	STATIVE	"I've got a hotel room up at the Montier.""?"	5	7
+agreed	DYNAMIC	After a moment he agreed.	18	24
+looking	DYNAMIC	he suggested, looking around warily.	14	20
+reached	DYNAMIC	They reached the Hotel building, but instead stepped into the side alley to reappear.	5	11
+appeared	DYNAMIC	They appeared behind a dumpster and stepped out into the street, and then inside Montier Hotel, greeting the warmth happily.	5	12
+did	STATIVE	Leah knew about Melody's powers, as did Mr. Greyhem.	36	38
+spoke	DYNAMIC	Melody walked up to the counter and spoke quietly to Mr. Greyhem.	36	40
+held	DYNAMIC	”...Oh really?” And then turning toward Owen he held out a hand.	48	51
+worked	STATIVE	At his home lab in Sussex, he worked on a new experiment based on his thesis.	30	35
+called	DYNAMIC	It functioned like a Spinning Wheel, twisting fibers of time space and folding them on a molecular level to create what he called “Newmatter.”	123	128
+reject	DYNAMIC	I reject your reality and substitute it for my own.?	2	7
+comes	STATIVE	With g2 (la pianista irlandesa), Mark Twain, and countless reference sources comes an epic journey abound with textual and parenthetical citations...Inspiration From FailureLimited Engagement begins Nov. 17 in select classrooms	77	81
+keep	STATIVE	A funny-looking gift from your little sister that you keep anyway.	54	57
+leaves	STATIVE	Red leaves decorating the hillsides.	4	9
+felt	DYNAMIC	There was a sudden lightness to the air, I felt myself relax.	43	46
+looked	STATIVE	Adelle, with her usual soft glances and gentle demeaner, now looked angry.	61	66
+played	DYNAMIC	She tugged at her robe and played with a string of her curly hair.	27	32
+paying	STATIVE	Passing notes when the teacher isn’t paying attention.	37	42
+say	DYNAMIC	A young man, around twelve I would say, opened the door.	35	38
+looked	DYNAMIC	The little boy looked at me curiously, as if he were trying to read my face.	15	20
+slumped	DYNAMIC	As soon as he disappeared my back slumped.	34	41
+looked	DYNAMIC	“It’s Marie.” I looked up at him.	16	21
+thought	STATIVE	At first I thought that the winged shape in the sky was a sparrow, and I was glad that a bird had come out, for it was lonely with just the hissing wind for company.	11	17
+left	DYNAMIC	No, all the geese had left for the winter, and it was too large now.	22	25
+was	DYNAMIC	The creature was the flapping wildly, trying to regain flight, but it still fell, falling, falling, down to earth.	13	15
+did	STATIVE	It sounded like a hawk’s cry, it did.	33	36
+filled	STATIVE	I ran up to it, filled first with excitement and then with concern.	16	21
+stood	DYNAMIC	I stood and ran briskly across the field to the road.	2	6
+having	DYNAMIC	As a child, I had been terrified of the caravan, partly because the Bonesetter growled and snapped at the village children, but also because of the blood-curdling screams that came from inside when people were having their broken bones set, so they would heal properly.	210	215
+kept	DYNAMIC	I knew that the Bonesetter would not answer unless it was an emergency, so I kept knocking until he opened the door and snarled, “What is it you want that you must make such a racket on my door?” “You must come,” I said, gasping.	77	80
+put	DYNAMIC	I put my foot in the way.“It’s not an animal,” I said.	2	4
+looked	DYNAMIC	“How are you feeling?” The angel cocked its head, and looked at me with a sad comprehension.	54	59
+understand	DYNAMIC	It said something in its language that I could not understand.“I don’t understand,” I said.	71	82
+saw	DYNAMIC	It murmured a few more things to itself, in various languages, and then chanced upon English.“I am so sorry,” it said, and I saw tears in its green eyes.	125	127
+rose	STATIVE	The rose quartz stone heart was just the size of her thumb print, and the gold ring circled it beautifully.	4	7
+held	DYNAMIC	She always held it when she was nervous.	11	14
+pulled	STATIVE	Her amber colored hair was pulled up into a high, upswept bun, and she pushed back one of her escaping curls.	27	32
+stood	STATIVE	Zen, a large, muscular man in a loose robe stood in the crowd.	43	47
+sat	DYNAMIC	Impatiently he thrust away the covers and sat up, his legs dangling over the side of the bed.	42	44
+suspect	DYNAMIC	They must suspect foul play.	10	16
+see	DYNAMIC	Janice could almost see the courage building up inside him.	20	22
+wonder	STATIVE	She wonder if he could hear her heart racing.	4	9
+stand	STATIVE	I don’t know how all the other girls stand to be around such an exquisite being.	37	41
+sit	DYNAMIC	“I sit around and watch you, sorry if that sounds a bit creepy but I can’t help it.	3	5
+seemed	DYNAMIC	Adelle always seemed to find him, and she never failed to share her information with Gianna, or....a version of Gianna.	14	19
+wondered	STATIVE	he wondered.	3	11
+looked	DYNAMIC	He looked around him uncertainly.	3	8
+thought	STATIVE	They both thought he was stupid just because he was part-robot.	10	16
+gave	DYNAMIC	“What’s going on here, Adelle?” he said and gave her his most disappointed, disapproving gaze.	44	47
+find	DYNAMIC	“Gianna said she couldn’t find you.”	26	29
+posed	STATIVE	“Did you stop to think that I didn’t want to be found?” He ignored Gianna, deciding she was a pre-recorded hologram and posed no threat.	120	124
+looked	STATIVE	Adelle looked shocked.	7	12
+seemed	STATIVE	Gianna is so good to you!” She seemed not to realize that the Gianna standing with them was just a hologram.	31	36
+filled	DYNAMIC	He filled her in.	3	8
+looked	STATIVE	She looked confused at first, then embarrassed, and finally ashamed.	4	9
+separated	DYNAMIC	They took our families and separated them, our possessions and plundered them, and our hearts and broke them.	27	35
+did	STATIVE	Do not expect me to lament the fate of their civilization, for it was at my hands did it fall.	82	84
+questioned	STATIVE	The man doubted his wife, and the woman questioned her son.	40	49
+directed	DYNAMIC	None of them knew, and so they directed their anger at all, and so undid themselves.	31	38
+continued	DYNAMIC	I don’t know how there isn’t an army of gus following you around, doing what ever your lovely heart desires,” Kyle continued, Janice’s face was about as red as can be imagined, yet getting redder.	115	124
+need	DYNAMIC	I don’t think you need to worry about that, Adelle.	18	21
+was	DYNAMIC	I know you think I’m being horrible, but I’m not.” She was acting defiant.	55	57
+was	DYNAMIC	I just want to protect you.” She was wheedling now.	33	35
+watching	DYNAMIC	She would’ve gotten down on her knees if she didn’t think Gianna was watching.	69	77
+inspired	DYNAMIC	At this thought Todd is suddenly inspired.	33	41
+wants	DYNAMIC	I think that boy wants to kill her.” Jim is surprised when Todd doesn’t react very violently to this news.	17	21
+thinking	DYNAMIC	Todd nods to himself, thinking.	22	30
+does	DYNAMIC	“Yes, yes, of course he does.	24	28
+fueled	STATIVE	“The boy doesn’t have a brain cell in his head that isn’t fueled by greed.”	58	63
+stands	DYNAMIC	He stands up straighter and says sternly, “I’m a man.”	3	8
+looking	DYNAMIC	Todd is also looking around but he can’t see anything but a ball-point pen that’s been crushed.	13	19
+looking	DYNAMIC	Without even looking at him, Todd answers, “No.	13	19
+expected	STATIVE	It was only expected.	12	20
+followed	STATIVE	Gia came in with a bag of popcorn and another bag of Swedish Fish, followed closely behind by Emilie, who was carrying five soda’s.	67	74
+looked	DYNAMIC	“Where’s Demi?” Gia looked around the room, her eyes focusing on me.	20	25
+got	DYNAMIC	I got here as soon as I could.” Demi’s hair was wind blown, and her nose was pink.	2	4
+looked	DYNAMIC	She looked over at me, surprised.	4	9
+hits	DYNAMIC	In the shadows I hideCautious and anxious, I fritter away my timeThen a glimmer of valor finally rises within meI prepare myselfLike the coiled viper, I strikeMy fangs baredThey long to seep in the skin of my preyBefore my attack hits I ceaseAlas, my prey is already deadA braver snake than I has beaten me	230	233
+left	STATIVE	But it won’t be enough if he is left alone too much longer.	32	35
+seen	DYNAMIC	Never seen her before...” “Who, the redhead?	6	9
+went	STATIVE	Pure coincidence could be an explanation, and it sounded like a good one, so I went with that and waved at him.	79	82
+hung	DYNAMIC	Jared and I hung out almost everyday, and he was making me popular.	12	15
+had	DYNAMIC	One Friday Jared had to visit his family in a different part of town, and for once I had nothing to do.	17	19
+looked	DYNAMIC	I picked up my phone and looked at my recent call list to see if anyone would hang out today.	25	30
+is	DYNAMIC	Suddenly the lights dim and he is able to fully open his eyes.	31	32
+comes	DYNAMIC	All at once the realization comes, and then he hears a voice speak into his ear from behind.	28	33
+keep	DYNAMIC	Not to worry, I’ll keep you safe and warm.”	19	22
+makes	DYNAMIC	His instinct makes him stiffen at the touch of a girl, but immediately he relaxes as she reaches around him and begins to massage his adolescent, hairless chest.	13	17
+lets	DYNAMIC	He lets his head loll back onto her shoulder, closing his eyes and moaning in pleasure.	3	6
+are	DYNAMIC	Suddenly her hands are moving downward.	19	21
+turned	STATIVE	Something in her touch has reawakened a long lost memory and he is turned on.	67	72
+reached	DYNAMIC	I closed my eyes, and the explosion of glass reached my ears.	45	51
+lay	STATIVE	Tiled marble floor lay underneath me.	19	21
+keep	STATIVE	So when my shuttle malfunctioned and the airlocks didn't keep the air in, I heard nothing.	57	60
+won	STATIVE	Such a relief to never again hear my crewmate Jesse natter about his girl back on Earth and that all-expenses-paid vacation-for-two she won last time he was on leave.	136	138
+had	DYNAMIC	I swore, if I ever had to see a photo of him in a skimpy bathing suit again, giving the camera a cheesy thumbs-up from a lounge chair on one of those white sandy beaches, I'd kiss a monkey.	19	21
+going	DYNAMIC	My first thought: I was going crazy.	24	28
+saw	DYNAMIC	And accompanying the bell, I saw a light.	29	31
+made	STATIVE	Now, there were two things here that made ridiculously small amounts of sense.	37	40
+floating	DYNAMIC	Second, I was floating in the dark remnants of my broken ship, and any conceivable light sources were not within view; starlight is a distinctly different color and significantly less bright.	14	21
+reserved	DYNAMIC	(I reserved the right to revise this opinion later.)	3	10
+found	DYNAMIC	I was one more scrap to weld onto the rest, one more stranded survivor who was found.	79	84
+had	DYNAMIC	Why didn't you save them?” As much as Jesse had irritated me, I didn't like the picture my brain drew of him floating in his grave, body swollen and bloated.	44	46
+called	DYNAMIC	Jefferson, he called himself, clean-shaven and smart, a picture of the perfect entrepreneur.	14	19
+continued	DYNAMIC	“We're selective about our passengers,” he continued.	43	52
+say	DYNAMIC	“Come on,” she said, before I could say anything else, “let's get you settled in.” No time for questions.	36	38
+hung	STATIVE	The occasional painting hung on the wall (generic landscapes and portraits of old people no one has ever met, primarily).	24	27
+going	DYNAMIC	It's not far; you're not going to get blisters.”	25	29
+took	STATIVE	It took me a couple days to realize I was, in fact, still alive.	3	6
+left	DYNAMIC	After I realized this, I left my quarters.	25	28
+delivered	DYNAMIC	Food was delivered to my quarters.	9	17
+left	DYNAMIC	Then I realized, someone must have noticed I hadn't left, and was nice enough to send food my way.	52	56
+looked	STATIVE	It was time to find out what hell looked like.	34	39
+form	DYNAMIC	Cliques form in any decent-sized group of people.	8	11
+appeared	STATIVE	She sidled up to me as I was scooping little round crackers and what appeared to be a baked cilantro cream dip onto a plate.	69	76
+smothered	STATIVE	The plate, by the way, was already loaded with folded pieces of smoked pink fish, paprika-dusted deviled eggs, toothpicks stabbed through green vegetables and slices of cheese, and balls of meat smothered in a tomato-based sauce.	195	203
+compared	DYNAMIC	Luxurious, even compared to the fare one would find in the high-class space stations and pleasure cruisers.	16	23
+pulled	DYNAMIC	Sarah transferred the glass to my free hand and pulled me away from the bar for more introductions, with Alexis trailing after us.	48	53
+spent	DYNAMIC	I spent the evening listening, mostly.	2	6
+wanted	DYNAMIC	I could have started asking questions, but I wanted to get my bearings first.	45	50
+looked	STATIVE	They all looked the same: clusters of social butterflies surrounded by the less apt, the hangers-on, the circle with whom the gossip was shared.	9	14
+wondered	DYNAMIC	I wondered at the ship instead.	2	9
+got	DYNAMIC	How they were all powered was a mystery—as good as the technology got, a quality robot like that was still an energy sink.	66	69
+had	DYNAMIC	It was the brain, mostly; the amount of information the machine had to process to be able to function at the level it did ate up a lot of resources.	64	66
+be	DYNAMIC	Sarah's crowd took turns taking my champagne flute to the bar to be refilled, all seemingly pleased to have a new set of ears to talk at.	65	66
+modeled	STATIVE	I would attend afternoon dance classes, so that when the evening dances came around (modeled after the historical social gatherings of several hundred years prior), I would be less of an embarrassment to myself.	84	91
+start	DYNAMIC	I told myself that tonight, the observation period would end and I'd start puzzling out the ship's mystery.	69	73
+smothered	DYNAMIC	I smothered thoughts of friends back on Earth—this was my long-awaited vacation, my clean break and my temporary retreat; I'd try contacting those friends tomorrow.	2	10
+tucked	DYNAMIC	I continued to care little for shipwide gossip, but our discussions of films and flicks, old and new, brought out my artistic, story-loving, argumentative side, a side of me I'd tucked into a back storage compartment during my years as an engineer.	178	183
+had	DYNAMIC	Maybe we had all tired of the frivolity of our life, hitting some threshold or some breaking point.	9	11
+gave	DYNAMIC	Regardless, when Adrienne asked what the ship's purpose was, we all gave it a measure of thought.	68	71
+sitting	STATIVE	“Impossible,” said Zheng, sitting in the chair to her left.	26	32
+says	STATIVE	“Relatively says it all.”	12	15
+pretend	DYNAMIC	Even if we were traveling at ninety-nine percent of the speed of light—that's assuming you ignore science and pretend that such a thing is possible, because it isn't—we'd still age.	110	116
+appear	DYNAMIC	We'd just appear to age slower than people not traveling as fast as us.”	10	15
+thinking	STATIVE	Tiffany took a drink, thinking.	22	30
+looked	STATIVE	Zheng looked skeptical.	6	11
+stood	DYNAMIC	Jefferson shook his head and stood up.	29	33
+followed	DYNAMIC	A chorus of good nights followed him out the door.	24	31
+set	DYNAMIC	He set his glass down on an end table, steepled his fingers together.	3	5
+share	DYNAMIC	Jefferson didn't share how he found people.	17	21
+share	DYNAMIC	He didn't share how he knew exactly where the wrecks were, or why he saved some people but not others.	10	14
+figured	STATIVE	I guess we all figured, he knew what he was doing.	15	22
+wondered	STATIVE	I wondered if Adrienne would ask about that.	2	9
+going	STATIVE	“We're going to mean something,” Zheng was saying.	7	11
+oppose	STATIVE	“What we do, rebelling against the oppression of the many governments that oppose us, we're going to leave a legacy.” He sounded certain.	75	80
+held	DYNAMIC	Ray, he shook his head, and broke the quiet he'd held most of the evening.	49	52
+got	STATIVE	“You've got it all wrong.” He looked from Sarah, to Adrienne, to Zheng, to Kishori and Tiffany, to me.	8	10
+is	DYNAMIC	All we're doing is eating and drinking and shitting, breathing and fucking and nothing important, ever.	16	17
+hold	STATIVE	“You can't hold on forever, even if you don't ever, ever want to forget.	11	14
+hold	DYNAMIC	“You can try to hold on,” said Ray.	16	19
+folded	STATIVE	Ray, he looked down at his hands, folded together in his lap, fingers interlaced.	34	39
+got	DYNAMIC	Ray shrugged, then got up and left.	19	21
+left	STATIVE	More excuses were made, and after a few moments, only Adrienne and I were left sitting in the ballroom.	74	77
+fixed	DYNAMIC	It was all so fast.” She took a sip of her drink, plain water because, she had explained earlier, she had never liked the taste of alcohol, then fixed her gaze on me.	145	149
+spent	DYNAMIC	I had spent weeks asking nothing, contentedly getting nowhere.	6	10
+was	DYNAMIC	I assumed he was indisposed.” Kishori nodded in agreement.	13	15
+raised	DYNAMIC	I looked at Ray and raised an eyebrow.	20	25
+using	DYNAMIC	” asked Adrienne, using Sarah's phrasing.	18	22
+cut	DYNAMIC	I cut in.	2	4
+looked	STATIVE	Sarah looked indignant.	6	11
+offered	DYNAMIC	No one offered a different answer.	7	13
+thinking	STATIVE	From the looks on my companions' faces, I knew they were thinking the same.	57	64
+was	DYNAMIC	“You were here before I was,” said Kishori, “and so was Tiffany.”	24	28
+see	STATIVE	I guess I didn't see the point.”	17	19
+spoke	DYNAMIC	Tiffany nodded, but Kishori spoke before the other woman could.	28	32
+went	DYNAMIC	Or where he went.”	12	17
+looked	STATIVE	Zheng looked thoughtful.	6	11
+set	DYNAMIC	He picked up his glass, swirled the liquid around, took a sip, then set the glass back down.	68	70
+addressed	DYNAMIC	Zheng, he addressed me again, leaning forward with his elbows on his knees and an intense, steady gaze.	10	18
+sat	STATIVE	I sat sideways in the armchair, feet dangling over one arm, neck resting against the other, absently tracing invisible lines between the stars outside my window as I ruminated on the situation.	2	4
+proved	DYNAMIC	The lightscreen had proved singularly unhelpful.	20	25
+allowing	STATIVE	A menu of display options, allowing me to customize all the lightscreen's superficial characteristics.	27	34
+provided	DYNAMIC	A methodical search of my two adjoining rooms, the ample closet space, and the attached bathroom facility had similarly provided no fodder.	120	127
+did	STATIVE	I wanted to prove to Adrienne that I wanted solve the ship's mystery just as much as she did.	89	92
+sat	DYNAMIC	“Tell me,” I said, after we sat, “what you have found.” It wasn't a question.	28	31
+going	STATIVE	“Not if you're going to be rude about it.”	15	19
+lie	DYNAMIC	“Sorry.” I wasn't, not really, but I'd lie to get the conversation going.	39	41
+having	STATIVE	“I've been having headaches.” It was a lie, but we needed information.	11	16
+got	STATIVE	Well, we've got the perfect-size group right here.” Just enough for us all to recognize each other.	12	14
+have	DYNAMIC	Some things in this world, we have to make them permanent ourselves.	30	33
+got	STATIVE	“I've got a replacement lined up.”	6	8
+thought	DYNAMIC	Life boats, I thought.	14	21
+finding	DYNAMIC	Ray, he caught me as I pounded on the corridor walls, finding no glass to break.	54	60
+held	DYNAMIC	He held me in his arms until I stopped flailing.	3	6
+provides	STATIVE	SUMMARY This report provides an analysis of the United States Postal Service's current legal authority to: (1) introduce and provide new products and services; and (2) enter into negotiated service agreements with individual customers.	20	27
+arranged	DYNAMIC	"• Negotiated Service Agreements (NSAs) or ""niche classifications"" are rate and service adjustments arranged by the Postal Service and potential users that are legally permissible, provided that:"	99	106
+directed	DYNAMIC	BACKGROUND AND SCOPE OF ANALYSIS In joint deliberations on appropriations for the United States Postal Service and certain other agencies and departments for Fiscal Year 2002, the committee of conference directed both the Postal Service and the Postal Rate Commission to prepare reports on particular areas of the Postal Service's authority under existing law.1 Specifically, the conferees directed: …both the United States Postal Service and the Postal Rate Commission to independently report, 90 days after enactment of this Act, on the scope of existing authority of the US Postal Service, under title 39, United States Code, and title 39, Code of Federal Regulations, to introduce and provide new products and services (including the introduction and provision of new products and service on an experimental or market test basis) and to enter into negotiated service agreements with individual customers or groups of customers.	204	211
+presented	STATIVE	The report is presented in three sections.	14	22
+customized	DYNAMIC	Commission proceedings in which the Postal Service has sought to introduce service innovations-some of them customized for particular groups of mailers-on an expedited basis.	108	117
+establishes	STATIVE	"Section 101(a) of Title 39 establishes the Postal Service's paramount obligation ""to provide postal services to bind the Nation together through the personal, educational, literary, and business correspondence of the people."""	27	37
+serve	STATIVE	The Reorganization Act grants the Postal Service specific powers that serve as the operational tools of service innovation.	70	74
+means	DYNAMIC	Section 404 of Title 39 grants the Postal Service plenary authority over custody of the mail and its movement [§ 404(a)(1)]; over the deployment of post offices, other facilities, and equipment [§ 404(a)(3)]; and over the means by which stamps and other postage are sold [§ 404(a)(4) and (5)].	222	226
+published	STATIVE	4 The text of the Domestic Mail Classification Schedule is published as Appendix A to Subpart C of 39 C.F.R.	59	67
+required	STATIVE	The rules depart from those generally applicable to proposed mail classification changes by reducing the amount of supporting evidence the Postal Service is required to produce, and by expediting the Commission's procedural schedule for considering the particular form of proposed change.	157	164
+intended	STATIVE	The Commission determined almost twenty years ago that there was a need for specialized rules to facilitate Postal Service mail classification requests involving proposed new services, or changes in existing services, that were intended to serve as experiments.	228	235
+proposed	DYNAMIC	The Commission conducted a rulemaking to consider the rules proposed in the Service's petition, and after considering the comments of interested parties, implemented four of the proposed initiatives, albeit in revised form.	60	67
+establish	STATIVE	The first set of these new procedural rules, incorporated into the Commission's rules of practice as sections 161 through 166,7 establish expedited procedures for consideration of Postal Service proposed market tests of potential new services.	128	136
+provide	STATIVE	"They also streamline public notice and hearing procedures, and provide for issuance of a ""yes or no"" Commission decision on the proposed market test within 90 days, consistent with the procedural due process rights of interested persons."	63	69
+considered	STATIVE	MC2000-2, was initially considered and recommended by the Commission under the market test rules.	24	33
+called	STATIVE	§§ 3001.171-.176. information called for in the Commission's general rules for mail classification proposals.	30	35
+defined	STATIVE	Minor classification changes are defined as those that would not change any existing rate or fee; would not impose any new restriction on eligibility for mailing; and would not significantly increase or decrease the estimated contribution of the affected mail subclass or service category to the institutional costs of the Postal Service.	33	39
+allow	STATIVE	The rules specify limited required supporting information, allow the Service to explain the unavailability of otherwise required data, and also streamline procedural scheduling.	59	63
+provide	DYNAMIC	The request should also provide Return on Investment projections, other available financial analyses, and cost, revenue, and volume estimates for the new service for the entire proposed test period.	24	30
+establish	STATIVE	The rules establish a policy standard that allows test periods of up to five fiscal years for the purpose of determining breakeven for newly introduced postal services.	10	18
+adopted	DYNAMIC	The Commission adopted these four sets of rules in 1996, to be effective for a period of five years.	15	21
+performed	DYNAMIC	For example, the legality of an agreement may be dependent on whether the contract is agreed upon and performed without any regulatory scrutiny, or instead submitted for some form of review by the Postal Rate Commission prior to its effectiveness.	102	110
+allowing	STATIVE	These provisions require that rate or mail classification changes desired by the Postal Service must be filed as a request with the Postal Rate Commission, allowing for public scrutiny and deliberations by the Commission and the Governors of the Postal Service.	156	163
+recognized	DYNAMIC	Failure to abide by the procedural requirements of Chapter 36 has been recognized as a sufficient legal basis for voiding the intended change.12 Negotiated rate or service changes also may run afoul of the substantive standards prescribed for rates and mail classifications in the Reorganization Act.	71	80
+assuming	STATIVE	However, assuming the procedural requirements of Chapter 36 are met, changes negotiated by the Postal Service and a mail user for their mutual benefit may merit recommendation under the applicable statutory standards.	9	16
+addressed	DYNAMIC	"B. Problematical ""Contract Rates"" In a rulemaking proceeding conducted in the late 1980s at the request of a mailer, the Commission addressed the question of the Postal Service's authority to negotiate rate changes in the form of a proposal to recognize ""contract rates."""	132	140
+included	STATIVE	RM89-5, included two variants:	8	15
+establish	DYNAMIC	The Commission might, after considering cost and other relevant evidence, establish a range of permissible rates for particular subclasses, with the Postal Service and individual mailers free thereafter to negotiate rates within this range; or	74	82
+provides	STATIVE	Conclusion: Negotiated rates-unaccompanied by a change in service conditions that provides cost justification-are a problematical approach to introducing additional flexibility into Postal Service business practices.	82	89
+Following	STATIVE	"C. Negotiated Service Agreements and Specialized ""Niche Classifications"" Following publication of the report of the joint Postal Service-Postal Rate Commission task force on ratemaking, the Postal Service petitioned the Commission to adopt rules to implement some of the report's recommendations."	73	81
+add	STATIVE	"One recommendation included in the Service's petition was adoption of Commission rules for reviewing on an expedited basis ""service agreements with postal customers, varying from the general rate and classifications schedules in ways which add value both for the customer and for the postal system as a whole."	240	242
+expressed	DYNAMIC	However, the Commission also expressed a general willingness to address the concept in a subsequent rulemaking.	29	37
+adopted	STATIVE	Since then, the Commission has conducted several mail classification proceedings under the other expedited procedures adopted in that rulemaking.	118	124
+shown	DYNAMIC	"These procedures have been shown to be well suited to the consideration of ""niche classification"" proposals."	27	31
+developed	DYNAMIC	Niche classifications are specialized mail classifications- including reduced, but cost-justified rates or fees-that have been developed by the Postal Service in direct consultation with its customers, to meet the needs and capabilities of a mailer or group of mailers.	127	135
+recommended	DYNAMIC	"MC2001-1, the Commission recommended three new worksharing-based discounted Priority Mail categories after negotiating with mailers who were willing to presort their mail in new ways that could reduce the Postal Service's costs.18 Such ""niche classification"" proposals are essentially Negotiated Service Agreements, without any associated legal uncertainties or additional administrative barriers."	25	35
+agreed	STATIVE	Conclusion: Rate and service adjustments agreed upon by the Postal Service and mailers are legally authorized if three conditions are satisfied: ❶ The proposal is reviewed in a public proceeding, as the Reorganization Act requires; ❷ The agreed-upon rate and service changes will work to the mutual benefit of mail users and the postal system as a whole; and 15 Docket No.	41	46
+made	STATIVE	❸ The negotiated rate-and-service package is made available on the same terms to other potential users willing to meet the same conditions of service.	45	48
+allowing	STATIVE	"• Nature of service or change: Experiment allowing one piece of advertising matter to ""ride-along"" in a Periodicals publication for a flat additional ten-cent rate."	42	49
+cause	STATIVE	"• Rate(s) and justification: Flat ten-cent rate available only for ""ride-along"" pieces that do not cause any significant additional mail processing or delivery costs."	99	103
+maintained	DYNAMIC	This document summarizes LSC management's internal practices with respect to accessing information contained in records maintained by LSC recipients.	120	129
+ensure	STATIVE	Of particular importance, however, are the methods for ensuring that LSC obtain necessary access to information in ways that ensure full compliance consistent with its statutory obligations.	125	130
+ensure	DYNAMIC	Congress has mandated that LSC effectively monitor and audit its grant recipients, and that LSC respect attorney-client privilege and ensure that LSC recipients carry out their work consistent with their professional responsibilities.	134	139
+sets	STATIVE	April 25, 2002 This document sets forth procedures to be used by LSC's Office of Compliance and Enforcement (OCE) and Office of Program Performance (OPP) when making requests to review documents that contain information about clients and their cases that may be protected from disclosure to LSC by the attorney-client privilege or the rules of professional responsibility.	29	32
+provides	STATIVE	"Section 1009(d) of the LSC Act explicitly provides that ""neither the Corporation nor the Comptroller General shall have access to any reports or records subject to the attorneyclient privilege."""	42	49
+ensure	DYNAMIC	"In addition, section 1006(b)(3) includes both a prohibition that LSC ""shall not, under any provision of this title, interfere with any attorney in carrying out his professional responsibilities"" and also imposes an affirmative duty that LSC ""shall ensure that activities under this title are carried out in a manner consistent with attorneys' professional responsibilities."""	248	253
+governed	STATIVE	Disclosure of information not required by these sections of the 1996 appropriation provisions is governed by sections 1006(b)(3) and 1009(d) of the LSC Act.	97	104
+provide	DYNAMIC	"In addition, upon request, recipients must also provide LSC access to original unredacted client ""statement of facts,"" as required by 45 CFR §1636."	48	54
+include	STATIVE	Applicability: This procedure applies to requests by the Office of Compliance and Enforcement (OCE) or the Office of Program Performance (OPP) for access to records of a recipient that may include information that may be protected by rules of professional responsibility or the law on attorney-client privilege.	189	195
+referred	DYNAMIC	Such information will hereafter be referred to as privileged or confidential information.	35	42
+set	STATIVE	Recipients have the responsibility to bring such ethical rulings to the attention of OCE as set forth in section 7 below after they have been notified by OCE of an impending request for access to records containing privileged or confidential information	92	94
+covered	STATIVE	Questions of Attorney-Client Privilege: OCE shall not have access to information protected by the attorney-client privilege, including information covered by section 509(h).	147	153
+send	STATIVE	Procedures for Addressing Privileged or Confidential Information: If a recipient believes that documents or information requested by OCE contain information that is protected by the attorney-client privilege, applicable rules of professional responsibility or other law, the recipient will send written notice to OCE as soon as possible setting forth (1) a full description of the nature of the privileged or confidential information, (2) a statement explaining the basis for determining that such information is privileged or confidential, and (3) any recommendations of reasonable approaches to accessing such information.	290	293
+seek	DYNAMIC	Upon receipt of this notice, OCE will so notify the Vice President for Administration and seek to find a mutually satisfactory manner for obtaining access to the information consistent with the applicable rules of attorney-client privilege and professional responsibility and consistent with LSC's need for information to ensure compliance.	90	93
+raised	STATIVE	If OCE is not able to expediently resolve all outstanding issues of concern, it will, through the Vice President for Administration, promptly so advise LSC's President and the Vice Presidents for Programs, Legal Affairs and Government Relations of the access issues raised and the specific reasons why the proposed alternative methods of access are inadequate.	266	271
+raised	STATIVE	The Vice President for Administration and Programs, with advice of the Office of Legal Affairs, then will review the concerns raised by the recipient.	126	131
+proceed	DYNAMIC	If the Vice Presidents for Administration and Programs do not agree with the position of the recipient, then LSC will so notify the recipient in writing and OCE will proceed with the review.	166	172
+proceed	STATIVE	If the action involves suspension or termination of funding, LSC will proceed in a manner consistent with Parts 1606 or 1623 of Title 45 of the Code of Federal Regulations.	70	76
+allow	DYNAMIC	However, if the action involves a sanction or adverse action other than termination or suspension, then LSC may, and is encouraged to, allow a recipient an opportunity to further present it's position.	135	139
+follow	STATIVE	Such a process could follow the following procedure.	21	26
+gives	STATIVE	"It gives you an indication of how fast they are running."""	3	7
+suggests	STATIVE	The Queen's Park Oval, exactly as its name suggests, is absolutely round.	43	51
+sings	DYNAMIC	In the Opera 'Tosca', Mario (under sentence of death) sings this song.	54	58
+vanished	STATIVE	My dream of love is vanished forever, that	20	27
+gone	STATIVE	time is gone and my despair is killing me.	8	11
+do	STATIVE	Boy, do I love being alive.	5	6
+written	DYNAMIC	The following statements about the Bible were written by children and have not been retouched or corrected.	46	52
+called	STATIVE	This is called monotony.	8	13
+called	STATIVE	Noah's wife was called Joan of Ark.	16	21
+led	DYNAMIC	Moses led the Hebrews to the Red Sea, where they made unleavened bread, which is bread without any ingredients.	6	8
+reached	DYNAMIC	Moses died before he ever reached Texas.	26	32
+led	DYNAMIC	Then Joshua led the Hebrews in the battle of Geritol.	12	14
+says	STATIVE	Jesus enunciated the Golden Rule, which says to do one to others before they do one to you.	40	43
+held	STATIVE	Gravity cannot be held responsible for two people falling in love.	18	21
+look	DYNAMIC	Yes, and then I look at the clock, see what time it is, and go back to sleep for another four hours.	16	19
+named	DYNAMIC	"Your brother from Cork came in and named them."""	35	39
+continues	STATIVE	bodies so far and expect that number to climb as digging continues into the night.	57	65
+listening	DYNAMIC	No one is listening until you make a mistake.	10	18
+try	STATIVE	If you think nobody cares if you're alive, try missing a couple of car payments.	43	45
+is	DYNAMIC	If at first you don't succeed, skydiving is not for you.	41	42
+gets	STATIVE	EVERY religion gets holidays.	15	18
+going	STATIVE	"As they ""oohed and aahed"" the old man asked Peter how much all this was going to cost."	72	76
+representing	STATIVE	They would have golfing privileges everyday and each week the course changed to a new one representing the great golf courses on earth.	90	101
+play	DYNAMIC	"Peter's reply, ""This is heaven, you play for free."""	36	39
+laid	STATIVE	Next they went to the club house and saw the lavish buffet lunch with the cuisine's of the world laid out.	97	100
+sitting	STATIVE	I am sitting here thinking how nice it is that wrinkles don't hurt.	5	11
+having	DYNAMIC	Pretend that I am having a heart attack.	18	23
+watching	STATIVE	That evening, the wife walked into the living room where her husband was watching television.	73	80
+having	DYNAMIC	"She sat down next to him, reached for the remote and switched the TV channel, then said to him, ""Pretend I'm having a heart attack."	109	114
+set	DYNAMIC	"You must cook the meal, set the places, and then get the dinner safely to the table"""	24	26
+leaves	DYNAMIC	"As the woman leaves to go after it, she turns to the rest of the flabbergasted customers and apologises: ""Look, I'm sorry, but I've just washed my hare, and I can't do a thing with it!"""	13	18
+called	STATIVE	"Wonderful Laundry Techniques (formerly called ""Don't Wash My Silks"")"	39	44
+called	STATIVE	"How To Put Down A Toilet Seat (formerly called ""No It's Not A Bidet"")"	40	45
+wants	STATIVE	There is no snooze button on a cat who wants breakfast.	39	43
+called	DYNAMIC	Dogs come when they're called; cats take a message and get back to you later.	23	29
+suffered	STATIVE	Cats are rather delicate creatures and they are subject to a good many ailments, but I never heard of one who suffered from insomnia.	110	117
+named	STATIVE	A mechanic who worked out of his home had a dog named Mace.	48	52
+is	DYNAMIC	* If at first you don't succeed, skydiving is not for you.	43	44
+makes	DYNAMIC	* Money can't buy happiness...But it sure makes misery easier to live with.	42	46
+demonstrate	DYNAMIC	* Vital papers will demonstrate their vitality by moving from where you left them to where you can't find them.	20	30
+hits	STATIVE	* Law of Probability Dispersal: Whatever it is that hits the fan will not be evenly distributed.	52	55
+set	DYNAMIC	"Jake set his wife safely up in the tree stand and told her, ""If you see a deer, take careful aim and I'll come running back as soon as I hear the shot."""	5	7
+was	DYNAMIC	Now within sight of where he had left his wife, Jake was surprised to see a cowboy, with his hands high in the air.	53	55
+enjoy	STATIVE	A young cook decided that the French would enjoy feasting on rabbits and decided to raise rabbits in Paris and sell them to the finer restaurants in the city.	43	47
+expected	STATIVE	"The sky is bluer, the air is cleaner, and the pastures are much more lush and green than I ever expected.	Ooooooh, it's much more beautiful here than I ever imagined,"" Fred answered. ""The sky is bluer, the air is cleaner, and the pastures are much more lush and green than I ever expected. And the only thing we do, all day long, are eat and sleep, eat and sleep, oooover and oooooooover."""	96	104
+stand	STATIVE	"Translation: ""I'm going to drink myself dangerously stupid, and stand by a stream with a stick in my hand, while the fish swim by in complete safety."""	64	68
+admit	DYNAMIC	"Translation: "" I have actually severed a limb, but will bleed to death before I admit that I'm hurt."""	80	84
+think	DYNAMIC	"Translation: ""And I sure hope I can think of some pretty soon."""	36	40
+are	DYNAMIC	You are to be commended for seizing that brief window of opportunity, and also for debiting my account with $50 by way of penalty for the inconvenience I caused your bank.	4	6
+addressed	STATIVE	My mortgage and loan repayments will, therefore and hereafter, no longer be automatic, but will arrive at your bank, by cheque, addressed personally and confidentially to an employee of your branch, whom you must nominate.	128	136
+runs	STATIVE	I am sorry it runs to eight pages, but in order that I know as much about him or her as your bank knows about me, there is no alternative.	14	17
+accompanied	STATIVE	Please note that all copies of his or her medical history must be countersigned by a Justice of the Peace, and that the mandatory details of his/her financial situation (income, debts, assets and liabilities) must be accompanied by documented proof.	217	227
+modeled	DYNAMIC	I regret that it cannot be shorter than 28 digits but, again, I have modeled it on the number of button presses required to access my account balance on your phone bank service.	69	75
+attending	STATIVE	To transfer the call to my toilet in case I am attending to nature; Extension of toilet to be communicated at the time the call is received.	47	55
+play	STATIVE	While this may on occasion involve a lengthy wait, uplifting music will play for the duration.	72	75
+chosen	DYNAMIC	This month I've chosen a refrain from The Best Of Woody Guthrie:	16	21
+made	STATIVE	".......""Oh, the banks are made of marble"	26	29
+filled	STATIVE	....... And the vaults are filled with silver	27	32
+send	DYNAMIC	First, there is the matter of advertising material you send me.	55	58
+spent	STATIVE	Enquiries from your nominated contact will be billed at $5 per minute of my time spent in response.	81	85
+following	STATIVE	Regrettably, but again following your example, I must also levy an establishment fee to cover the setting up of this new arrangement.	23	31
+published	DYNAMIC	These are things people actually said in court, word for word, taken down and now published by court reporters who had the torment of staying calm while these exchanges were actually taking place:	82	90
+played	STATIVE	A: Sure, I played for ten years.	11	16
+went	STATIVE	I even went to school for it.	7	10
+sings	STATIVE	Take the bull by the hand and avoid mixed metaphors--even if a mixed metaphor sings, it should be derailed.	78	83
+follows	STATIVE	The adverb always follows the verb.	18	24
+drew	DYNAMIC	the boy drew back in amazement.	8	11
+have	DYNAMIC	Every day I have to blow the whistle at noon so I call you to get the exact time.	12	15
+study	DYNAMIC	Do NOt forget that the pursuit of kNOwledge is a NOble task, and you can never study eNOugh.	79	83
+states	STATIVE	Given that the troubles on the West Bank have not only frosted relations between Arafat and Israel, but also those between Israel and Egypt and between Israel and Saudi Arabia, the paper states that the U.S. is now facing the prospect that the moderate Arab coalition it built after the Persian Gulf war to contain Iraq and Iran is falling apart.	187	192
+set	STATIVE	Several papers have word that H and R Block has finally wriggled out of its controlling stake of Compuserve, but it's the Post with the news that AOL is set to take it over.	153	155
+takes	STATIVE	"The LAT , for instance, examines what it takes to be a new ""cuddly-feely"" Britain born of the national grief experience."	41	45
+understand	STATIVE	"Salvation -- hers and that of the destitute she rescued from the gutters -- was her aim, not economic or social development as many others understand it, she said."""	139	148
+puts	DYNAMIC	"What's with the top-of-the-front headline the LAT puts over its picture of Martina Hingis standing next to Venus Williams after beating her at the U.S. Open -- ""Venus Brought Back to Earth""?"	50	53
+agreed	DYNAMIC	In the Texas case, reports USAT , the defendant companies have agreed to pay about $15 billion over 25 years to reimburse the state for expenses it incurred in the treatment of smoking-related illnesses.	63	68
+states	DYNAMIC	The Wall Street Journal states that the plaintiffs' lawyers hired by Texas to try the case will receive as part of the deal almost $2.2 billion in fees.	24	29
+were	DYNAMIC	The NYT reports that today's issue of the journal Science will describe an experiment in which people's biological clocks were reset three hours by shining a bright light on the back of their knees.	122	125
+runs	DYNAMIC	"Today's WP ""Style"" section (that's the opposite of substance, remember) picks up that ball and runs with it, with a lengthy discourse on the new PJ."	95	98
+reached	STATIVE	"Jones apparently has ""smoothed the frizzy mane of curls that once reached to such dazzling heights."	66	72
+inspired	STATIVE	Her clothing is inspired by the boardroom instead of the secretarial pool.	16	23
+used	STATIVE	Political figures turn on each other from time to time, for good and bad reasons; we're used to it.	88	91
+wants	STATIVE	Stephanopoulos wants to run for the Senate and doesn't want to seem a Clinton stooge.	15	19
+shows	STATIVE	By lending credence to the Lewinsky charges, and treating Clinton's familiar defenses as the lies and half-lies they seem to be, Stephanopoulos shows he's not a fool.	144	148
+played	DYNAMIC	During the 1992 campaign, when Gennifer Flowers first brought Clinton's philandering to public attention, Stephanopoulos -- as Clinton's chief spinner, distracter, and all-around bullshit artist -- played a crucial role in discrediting Flowers and anyone else who tried to point out the truth, namely that Clinton had a disturbing zipper problem.	198	203
+put	STATIVE	Simply put, Stephanopoulos did as much as any man to get the country into the mess he now so telegenically laments.	7	10
+suggests	DYNAMIC	Donaldson suggests that on 60 Minutes Clinton had admitted to infidelity.	10	17
+claim	DYNAMIC	(Today, of course, the president's defenders claim that Clinton admitted infidelity on 60 Minutes and that the fully informed voters simply didn't care.)	45	49
+employed	DYNAMIC	He was one of Clinton's principal enablers, to use a word employed by Maureen Dowd in today's New York Times .	58	65
+conceived	STATIVE	The 19 th century Jewish intellectuals who conceived of Zionism -- the idea that Jewish survival depends on the establishment of a Jewish state in the biblical land of Israel -- never worked out their ideology's logistics.	43	51
+supported	DYNAMIC	They publicly supported Arab complaints that Jews were driving Arabs off the land.	14	22
+drew	DYNAMIC	Urban commerce drew some peasants from their family farms.	15	18
+are	DYNAMIC	Jewish sovereignty and ownership were established the way these things usually are: by war.	79	82
+stayed	STATIVE	Many Palestinians, however, stayed put, retained their land, and became Israeli citizens.	28	33
+intended	DYNAMIC	However, even these revisionists agree that the Jews had not intended to evict Muslims from Palestine.	61	68
+rejected	DYNAMIC	"Last week, the Senate rejected Majority Leader Tom Daschle's bill banning the abortion of ""viable fetuses."""	22	29
+ruled	DYNAMIC	"The Supreme Court ruled that states cannot put the interests of a fetus ahead of the interests of the pregnant woman until the fetus is ""viable."""	18	22
+defined	DYNAMIC	The court defined viable to mean capable of prolonged life outside the mother's womb.	10	16
+accepted	DYNAMIC	The court accepted the conventional medical wisdom that a fetus becomes viable at the start of the last third of a pregnancy, the third trimester, sometime between the 24 th and 28 th week (a pregnancy usually lasts 38 weeks).	10	17
+ruled	DYNAMIC	Because the point of viability varies, the court ruled, it could only be determined case by case and by the woman's own doctor.	49	54
+allowing	DYNAMIC	She said that improvements in technology would continually push the point of fetal viability closer to the beginning of the pregnancy, allowing states greater opportunity to regulate the right to an abortion.	135	142
+delivered	STATIVE	Babies delivered during the 22 nd and 23 rd weeks weigh just over a pound.	7	15
+formed	DYNAMIC	Their lungs have barely formed and their airways are not developed enough to inhale.	24	29
+formed	STATIVE	Neonatologists predict that no baby will ever be viable before the 22 nd week, because before then the lungs are not fully formed.	123	129
+formed	DYNAMIC	Doctors assess a fetus's viability by attempting to guess whether its lungs have formed.	81	87
+allow	STATIVE	Sonograms allow doctors to estimate the fetus's weight, which correlates with the lungs' development, and to look for signs -- such as the development of functioning eyelids and creases in the skin -- that coincide with the onset of a functioning respiratory system.	10	14
+allow	STATIVE	Some allow doctors to decide for themselves if the fetus is viable.	5	9
+called	STATIVE	Eleven states have banned the procedure called intact dilation and extraction (IDE) -- also known as partial-birth abortion -- in the belief that this procedure is used mainly post-viability.	40	45
+claim	STATIVE	Movement adherents claim that the IDE procedure -- in which delivery is induced, the fetus's skull is crushed, and its brains are suctioned -- amounts to infanticide.	19	23
+say	STATIVE	Barring this procedure is also the only regulation of abortion that public-opinion polls say has a majority of support.	89	91
+drawn	STATIVE	Even if viability is an important moral line, is it drawn in the right place?	52	56
+talk	STATIVE	I wanted to personally write you and give you our 2001 Collectible Calendar and talk about animals in danger - a cause we both care deeply about.	80	83
+looking	STATIVE	Don’t you agree that the lion and baby seal are looking right into your eyes?	48	54
+say	STATIVE	Many of our critics say that you and I who love animals attribute intelligent and sensitive qualities to “stupid, non-feeling” animals.	20	22
+talk	DYNAMIC	Whether we talk about clubbing baby seals to death for their beautiful pelts, or butchering elephants with hacksaws for their ivory, or trapping animals in steel-jaw leghold traps where the pain is so excruciating they have been known to chew off a leg to escape, we stand guard for all animals.	11	14
+comes	DYNAMIC	IFAW is now launching our year 2001 Animal Sanctuary Fund to provide safe places for animals to live out of the danger tat comes from humans and loss of habitat.	123	127
+committed	STATIVE	Whether it is to fund additional land for the Addo elephant park in South Africa where 29 calves were born this year or our partnership with Future Generations to save vital habitat for moon bears, bengal tigers and other animals, or our response to move orphaned lions to 500 acres of protected African bush where they will live safely for the rest of their lives… we are committed to the concept of ANIMAL SANCTUARIES.	373	381
+does	STATIVE	I do not like to ask for money No one does.	38	42
+gives	DYNAMIC	But money gives us the POWER TO PROTECT AND DEFEND THE VOICELESS.	10	14
+enjoy	STATIVE	I thought you would enjoy our 2001 Animal Sanctuary Calendar.	20	24
+continue	STATIVE	The simple fact is we cannot continue without your generous gifts.	29	36
+need	DYNAMIC	homeless animals that would otherwise die if Little Shelter didn’t provide the care, treatment and love these animals need.	118	122
+enjoy	DYNAMIC	I hope you enjoy using them as you correspond with your friends and family and help us spread the word to protect ocean wildlife.	11	15
+continue	DYNAMIC	Even today, after years of public outrage, dolphins continue to die in tuna fisheries of other countries and are still being cruelly and often illegally killed by gillnets and harpoons.	52	59
+comes	DYNAMIC	When it comes to the oceans, people take ... and take ... and take -- without ever giving.	8	12
+operating	STATIVE	A tax-deductible gift from you now of less than a nickel a day can bring you into the ranks of the most influential and effective marine conservation organization operating today.	163	171
+share	STATIVE	But think how much you -- and your loved ones who share this watery planet of ours -- stand to gain if you join.	50	54
+supported	DYNAMIC	(over, please...) For more than 60 years, caring and concerned wildlife lovers like yourself have supported our mission to educate, inspire and assist individuals and organizations to conserve wildlife and other natural resources and to protect the earth’s environment in order to achieve a peaceful, equitable and sustainable future.	98	106
+having	STATIVE	Besides having the satisfaction of knowing that you are doing your part to help save our wildlife heritage, you will also receive some outstanding benefits of membership including: A one-year subscription to our beautiful full color magazine, NATIONAL WILDLIFE.	8	13
+affecting	STATIVE	Our magazine is a great way to stay informed on the current issues affecting wildlife and see what NWF is doing to find solutions to these problems.	67	75
+enjoy	DYNAMIC	And you’ll enjoy a series of insightful stories on a variety of wildlife species stories that can’t be found anywhere else!	11	15
+made	STATIVE	The tote bag is made of a strong, cotton material and has plenty of room, including a handy sewn-in pocket.	16	19
+enjoy	DYNAMIC	You’ll enjoy four outstanding restaurants, nightly entertainment, an exciting casino, a fitness center and world-class spa — and more!	7	11
+provide	DYNAMIC	Optional shore excursions will provide the best opportunities for exploring the highlights of each fascinating port-of-call!	31	37
+provided	DYNAMIC	Mileage Plus account number must be provided at time of booking.	36	43
+looking	STATIVE	Everyone is looking to get the latest and greatest in digital technology.	12	18
+offers	STATIVE	DTV offers more than 200 channels, delivered with a picture as bright and as sharp as you’d see on a movie screen and crystal clear sound that rivals your favorite CD.	4	9
+gives	DYNAMIC	DTV gives you access to professional and college sports packages that are played outside the local viewing area, including NBA League Pass, NHL Center Ice, ESPN Game Plan, ESPN Full Court, MLS/ESPN Shootout and WNBA Season Pass.	4	8
+gives	DYNAMIC	Quick and concise, an on-screen information banner automatically gives you the who, when, and where of what’s on.	65	69
+comes	DYNAMIC	A significant promise comes with your enclosed personalized address labels, which are ready for your immediate use.	22	26
+oppose	DYNAMIC	We need your support today to help us face off against a noisy chorus of anti-wildlife forces who oppose all efforts at commonsense environmental protection.	98	103
+provides	DYNAMIC	But best of all, your membership provides you with an opportunity to make a real, personal difference in the world we all share.	33	40
+attached	STATIVE	So, please send us your membership gift today ... by using the convenient form attached to your personal address labels.	79	86
+look	STATIVE	We look forward to your reply.	3	6
+goes	DYNAMIC	Then be on the lookout for NATIONAL WILDLIFE® where you’ll see spectacular pictures of wildlife species like this one ... and learn just how NWF goes about safeguarding them with your help.	145	148
+provide	DYNAMIC	After all, conservation begins with saving those at-risk places -— our forests and deserts, wetlands and oceans, mangroves and coral reefs — that provide a lifeline for precious animals and plants.	146	152
+establishes	DYNAMIC	For instance, our innovative “Forests for Life Campaign” establishes an international network of parks and reserves.	57	67
+found	STATIVE	This will protect at least 10% of each different type of forest found in every country.	64	68
+described	DYNAMIC	As a Living Planet Society member, you’ll receive the wonderful array of benefits described in the enclosed brochure.	82	90
+identified	DYNAMIC	The other concern wasn't identified.	25	35
+derived	STATIVE	About 30% of Ratners's profit already is derived from the U.S.	41	47
+continue	DYNAMIC	New loans continue to slow; they were $6.6 million in the quarter compared with $361.8 million a year ago.	10	17
+completed	DYNAMIC	First of America Bank Corp. said it completed its acquisition of Midwest Financial Group Inc. for about $250 million.	36	44
+announced	DYNAMIC	First of America, which now has 45 banks and $12.5 billion in assets, announced an agreement to acquire the Peoria, Ill., bank holding company in January.	70	78
+provides	DYNAMIC	Coleco Industries Inc., a once high-flying toy maker whose stock peaked at $65 a share in the early 1980s, filed a Chapter 11 reorganization plan that provides just 1.125 cents a share for common stockholders.	151	158
+named	DYNAMIC	In addition, they will receive stock in the reorganized company, which will be named Ranger Industries Inc. After these payments, about $225,000 will be available for the 20 million common shares outstanding.	79	83
+completed	DYNAMIC	Sony Corp. completed its tender offer for Columbia Pictures Entertainment Inc., with Columbia shareholders tendering 99.3% of all common shares outstanding by the Tuesday deadline.	11	19
+formed	DYNAMIC	Sony Columbia Acquisition Corp., formed for the Columbia deal, will formally take ownership of the movie studio later this month, a spokesman said.	33	38
+rose	DYNAMIC	Earnings at Xerox's financial-services operations actually rose slightly, but that was largely because capital gains at Crum & Forster offset Hurricane Hugo payments and the reserves set up to cover future payments.	59	62
+called	DYNAMIC	"Chairman Theodore Cooper called the program part of the company's two-year strategy to implement budget constraints and ""an effective headcount-control program."""	25	30
+questioned	DYNAMIC	But some analysts questioned how much of an impact the retirement package will have, because few jobs will end up being eliminated.	18	27
+rose	DYNAMIC	In composite trading on the New York Stock Exchange yesterday, Upjohn shares rose 87.5 cents to $38.875 apiece.	77	80
+adopted	DYNAMIC	The company earlier this year adopted a shareholder-rights plan to ward off unwanted suitors.	30	36
+offered	STATIVE	The spokesman said it is the first early retirement plan offered under its two-year cost-control strategy.	57	63
+is	DYNAMIC	"The situation is that the bankruptcy court will get out of the shipbuilding business.	The new company will attempt to limit the shipyard's losses, participants said. The situation is that the bankruptcy court will get out of the shipbuilding business. Everything will be taken over by the new company,"" said Christian Andersson, executive vice president of Oy Waertsilae, former parent of Waertsilae Marine."	14	15
+open	DYNAMIC	Once its ownership is finalized, the new company will open talks with state-appointed receivers to buy or lease Waertsilae Marine's shipyard facilities.	54	57
+is	DYNAMIC	Oy Waertsilae is to contribute 200 million markkaa, most of it as subordinated debt, and take a minority stake in the new company.	14	15
+expected	DYNAMIC	Customers holding contracts for Waertsilae Marine's undelivered ships are expected to subscribe most of the remaining 170 million markkaa in share capital, government officials said.	74	81
+presented	DYNAMIC	Waertsilae Marine's biggest creditor is Miami-based Carnival Cruise Lines Inc. Carnival, which has three ships on order from Waertsilae Marine, presented claims for $1.5 billion damages in the bankruptcy court this week.	144	152
+compared	STATIVE	The St. Louis company earned $45.2 million, or 65 cents a share, compared with $84.9 million, or $1.24 a share, a year earlier.	65	72
+attributed	DYNAMIC	Ralston attributed its fourth-quarter slump partly to higher costs of ingredients in the pet food business as well as competitive pressures, which required higher advertising spending.	8	17
+hurt	DYNAMIC	Ralston said its Eveready battery unit was hurt by continuing economic problems in South America.	43	46
+share	DYNAMIC	Hostile and even friendly nations routinely steal information from U.S. companies and share it with their own companies, said Noel D. Matchett, a former staffer at the federal National Security Agency and now president of Information Security Inc., Silver Spring, Md.	86	90
+sponsored	STATIVE	The conference was jointly sponsored by the New York Institute of Technology School of Management and the Armed Forces Communications and Electronics Association, a joint industry-government trade group.	27	35
+have	DYNAMIC	"You can have a dozen competitors stealing your secrets at the same time, Mr. Matchett said, adding : ""It's a pretty good bet they won't get caught."""	8	11
+cost	STATIVE	Even though electronic espionage may cost U.S. firms billions of dollars a year, most aren't yet taking precautions, the experts said.	37	40
+expected	DYNAMIC	By contrast, European firms will spend $150 million this year on electronic security, and are expected to spend $1 billion by 1992.	94	101
+named	DYNAMIC	One expert, whose job is so politically sensitive that he spoke on condition that he wouldn't be named or quoted, said the expected influx of East European refugees over the next few years will greatly increase the chances of computer-maintenance workers, for example, doubling as foreign spies.	97	101
+provided	DYNAMIC	W. Mark Goode, president of Micronyx Inc., a Richardson, Texas, firm that makes computer-security products, provided a new definition for Mikhail Gorbachev's campaign for greater openness, known commonly as glasnost.	108	115
+attending	DYNAMIC	The slaughter in Colombia was very much on the minds of 450 editors and publishers from Latin America, the United States, the Caribbean and Canada attending the 45th general assembly of the Inter-American Press Association in Monterrey, Mexico, this week.	147	155
+comes	DYNAMIC	This comes from a man whose brother, Guillermo, was murdered in 1986.	5	9
+backed	DYNAMIC	Sandinistas Thomas Borge and the Ortega brothers are Castro proteges; he backed their takeover of Nicaragua.	73	78
+backed	DYNAMIC	In Colombia, the drug-financed guerrillas trying to seize the country and destroy democracy include M-19, which Castro has clearly backed.	131	137
+mean	DYNAMIC	Robert Merkel, a former U.S. attorney handling drug indictments in Florida, doesn't think for a minute that Castro's much publicized trials of high officials engaged in the drug trade mean he has broken off with the Medellin drug cartel.	184	187
+accepted	DYNAMIC	Mr. Barco has refused U.S. troops or advisers but has accepted U.S. military aid.	54	61
+described	DYNAMIC	Exciting, mysterious, glamorous — these words have described Hong Kong for at least a century.	51	59
+raised	STATIVE	But it is also efficient, with one of the best transportation systems anywhere, and for such a crowded place, quiet — you don’t hear voices raised in anger, motorists sitting on their horns, or loud boomboxes.	140	145
+find	STATIVE	You’ll find Hong Kong easy to get around, the people helpful, English spoken everywhere, and food that lives up to its reputation.	7	10
+continue	STATIVE	Today Hong Kong remains a capitalist enclave with its laws and rights intact, and China has promised that Hong Kong will continue in this fashion for at least 50 years.	121	128
+announced	STATIVE	Beijing’s announced policy of maintaining Hong Kong’s prosperity and stability makes sense.	10	18
+vanished	DYNAMIC	But in fact, once news of the handover vanished from the front pages, the people of Hong Kong returned to their usual topics of conversation: the economy and the price of housing.	39	46
+described	DYNAMIC	The Chinese people have been described as hardworking and pragmatic, attitudes that have contributed to Hong Kong’s success.	29	37
+built	DYNAMIC	Before a skyscraper can be built, a feng shui (see page 68) investigation must take place to ensure that the site and the building will promote health, harmony, and prosperity.	27	32
+come	STATIVE	Specialty goods and souvenirs, often handmade, come from Hong Kong and elsewhere in China.	47	50
+tucked	STATIVE	Large shops on the fashionable thoroughfares tend to be more expensive than smaller “family” shops tucked away in the side streets.	99	104
+offer	DYNAMIC	Needless to say, avoid peddlers who approach you on the street and offer to take you to wondrous bargains.	67	71
+identified	STATIVE	It is advisable to shop at outlets that are members of the Hong Kong Tourist Association (HKTA), identified by a red junk logo.	97	106
+provides	DYNAMIC	Membership imposes an obligation to maintain standards of both quality and service, and provides dissatisfied customers with an officially recognized channel for redressing complaints; the number to call is Tel.	88	95
+listed	STATIVE	Pick up a copy of HKTA’s “The Official Dining, Entertainment & Shopping Directory” in which all member stores are listed.	114	120
+provided	STATIVE	Ask if automatic free insurance is provided.	35	43
+attributed	STATIVE	“ Good for the health” is just one of the many magical qualities that are attributed to these beautiful emerald-green or turquoise stones.	74	83
+looks	STATIVE	Real jade is extremely expensive, and you may be offered counterfeit jade, which looks exactly like the genuine article.	81	85
+have	DYNAMIC	You can buy gemstones loose or set, or have them made up to your own design.	39	42
+be	DYNAMIC	If you do plan to buy jewelry, be sure to consult the “Shopping Guide to Jewellery” published by the Hong Kong Tourist Authority to find a reputable dealer.	31	32
+make	STATIVE	Woks and any other gadgets essential for Chinese cookery make good purchases.	57	60
+be	DYNAMIC	Whatever you buy, you may be able to work out a discount.	26	27
+carry	STATIVE	Hong Kong’s shops carry almost every recognizable European and many American labels, from top-end designers to the moderately priced or trendy.	18	22
+comes	STATIVE	Local tailors are experts when it comes to producing custom-tailored garments for both men and women, and are also adept at copying patterns.	34	38
+listed	STATIVE	Many tailors have Web sites or are listed on Web sites.	35	40
+goes	STATIVE	Entertainment Day and night, the action goes on in this vibrant city.	40	43
+reserved	DYNAMIC	Tickets for the shows must be reserved well in advance.	30	37
+including	DYNAMIC	Larger arenas, including the Queen Elizabeth Stadium, the Hong Kong Coliseum, and the Ko Shan Theater in Kowloon play host to various concerts, pop concerts, sporting events, and variety shows.	15	23
+featured	STATIVE	The Hong Kong Chinese Orchestra performs new and traditional works; a wide assortment of traditional and Chinese instruments are featured.	129	137
+offers	DYNAMIC	Under its conductor, David Atherton, it offers Western classical works and new works by Chinese composers in a September-to-June season.	40	45
+put	STATIVE	Although the music may seem strange to the unaccustomed ear, it certainly won’t put you to sleep; cymbals and drums guarantee your alertness.	80	82
+designed	DYNAMIC	The 72-par course was designed by Dave Thomas.	22	29
+divided	STATIVE	Both trails are divided into smaller segments of varying difficulty.	16	22
+led	STATIVE	HKTA also has trail maps and sponsors the Guided Nature Walks, led by rangers, that include hikes in all the different regions of Hong Kong.	63	65
+offers	DYNAMIC	HKTA offers lessons in these exercises that improve concentration and balance at Garden Plaza, Hong Kong Park, Admiralty (Tel.	5	10
+share	STATIVE	All levels of society share a feverish interest in the Sport of Kings.	22	26
+runs	DYNAMIC	The Hong Kong Tourist Association runs a “Come Horseracing Tour,” which includes entry to the Hong Kong Jockey Club visitors’ box and members’ enclosure, and a buffet-style meal.	34	37
+accompanied	STATIVE	There’s a special Kid’s World that those under 12 can enter free when accompanied by a paying adult.	70	80
+combines	DYNAMIC	Aerobics is a form of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the goal of improving all elements of fitness (flexibility, muscular strength, and cardio-vascular fitness).	45	52
+divided	STATIVE	Formal aerobics classes are divided into different levels of intensity and complexity.	28	34
+allow	DYNAMIC	Aerobics classes may allow participants to select their level of participation according to their fitness level.	21	25
+offer	STATIVE	Many gyms offer a variety of aerobic classes.	10	14
+using	DYNAMIC	He began measuring systematic human performance using a bicycle ergometer, and began measuring sustained performance in terms of a person's ability to use oxygen.	48	52
+using	STATIVE	His groundbreaking book, Aerobics, was published in 1968, and included scientific exercise programs using running, walking, swimming and bicycling.	100	104
+prohibited	STATIVE	Elements of tumbling such as handsprings, handstands, back flips, and aerial somersaults are prohibited.	93	103
+disagree	STATIVE	Different sources disagree on the results of all this, with some claiming the death of 21 million Russian Orthodox Christians by the Soviet government, not including other religious groups or persecutions without killings, and other sources stating that only up to 500,000 Russian Orthodox Christians were persecuted by the Soviet government, not including other religious groups.	18	25
+appear	STATIVE	All national institutions of churches, whether Jewish, Christian, or Turkish Muslim, appear to me no other than human inventions set up to terrify and enslave mankind, and monopolize power and profit.	85	90
+called	DYNAMIC	"He called religion ""the opium of the people""."	3	8
+provide	STATIVE	*John Dewey (1859–1952), an American pragmatist philosopher, who believed neither religion nor metaphysics could provide legitimate moral or social values, though scientific empiricism could (see science of morality).	113	119
+argues	STATIVE	*Sam Harris (born 1967), American author and neuroscientist, who argues that religious moderation provides cover for dangerous fundamentalism.	65	70
+made	STATIVE	All have three-sided bodies; spruce, evergreen, or fir tops; and backs made of three to nine wooden sections (usually maple).	71	74
+strung	DYNAMIC	They are typically strung with three strings.	19	24
+pick	STATIVE	The prima balalaika, secunda and alto are played either with the fingers or a plectrum (pick), depending on the music being played, and the bass and contrabass (equipped with extension legs that rest on the floor) are played with leather plectra.	87	93
+found	STATIVE	The modern balalaika is found in the following sizes:	24	28
+tuned	STATIVE	The most common solo instrument is the prima, which is tuned E-E-A (thus the two lower strings are tuned to the same pitch).	55	59
+tuned	DYNAMIC	"Sometimes the balalaika is tuned ""guitar style"" by folk musicians to G-B-D (mimicking the three highest strings of the Russian guitar), whereby it is easier to play for Russian guitar players, although classically trained balalaika purists avoid this tuning."	27	31
+tuned	DYNAMIC	It can also be tuned to E-A-D, like its cousin, the domra, to make it easier for those trained on the domra to play the instrument, and still have a balalaika sound.	15	19
+considered	STATIVE	One can play the prima with a plectrum, but it is considered rather unorthodox to do so.	50	59
+made	STATIVE	Because of the large size of the contrabass's strings, it is not uncommon to see players using plectrums made from a leather shoe or boot heel.	105	108
+agreed	STATIVE	It is commonly agreed that is came from the Domra, an instrument from the Caucasus region of Russia.	15	20
+made	STATIVE	Similarly, frets on earlier balalaikas were made of animal gut and tied to the neck so that they could be moved around by the player at will (as is the case with the modern saz, which allows for the playing distinctive to Turkish and Central Asian music).	44	47
+looks	DYNAMIC	Its unappealing looks have created much discussion in media outlets.	16	20
+proposed	DYNAMIC	Jung proposed and developed the concepts of the collective unconscious, archetypes, and extraversion and introversion.	5	12
+saw	STATIVE	"Jung saw the human psyche as ""by nature religious"" and made this religiousness the focus of his explorations."	5	7
+spent	STATIVE	Though he was a practising clinician and considered himself to be a scientist, much of his life's work was spent exploring tangential areas such as Eastern and Western philosophy, alchemy, astrology, and sociology, as well as literature and the arts.	107	111
+taught	DYNAMIC	The senior Preiswerk was a wealthy professional man who taught Paul Achilles Jung as his professor of Hebrew.	56	61
+appointed	DYNAMIC	When Jung was six months old, his father was appointed to a more prosperous parish in Laufen but the tension between his parents was growing.	45	53
+floating	STATIVE	Jung said that one night he saw a faintly luminous and indefinite figure coming from her room with a head detached from the neck and floating in the air in front of the body.	133	140
+influenced	DYNAMIC	"Emilie Jung's continuing bouts of absence and often depressed mood influenced her son's attitude towards women — one of ""innate unreliability""."	67	76
+called	DYNAMIC	"This was a view that he later called the ""handicap I started off with."""	30	35
+called	DYNAMIC	After three years of living in Laufen, Paul Jung requested a transfer; he was called to Kleinhüningen in 1879.	78	83
+placed	DYNAMIC	As a boy he carved a tiny mannequin into the end of the wooden ruler from his pencil case and placed it inside the case.	94	99
+inspired	STATIVE	His conclusions about symbols, psychological archetypes, and the collective unconscious were inspired, in part, by these experiences.	93	101
+recognized	DYNAMIC	(Jung later recognized that the incident was his fault, indirectly.)	12	21
+was	DYNAMIC	"This event, Jung later recalled, ""was when I learned what a neurosis is."""	33	36
+disagree	STATIVE	Thus conservatives from different parts of the world—each upholding their respective traditions—may disagree on a wide range of issues.	100	107
+called	STATIVE	In Britain, conservative ideas (though not yet called that) emerged in the Tory movement during the Restoration period (1660–1688).	47	52
+supported	STATIVE	Toryism supported a hierarchical society with a monarch who ruled by divine right.	8	16
+written	DYNAMIC	Robert Filmer's Patriarcha: or the Natural Power of Kings, published posthumously in 1680 but written before the English Civil War of 1642-1651, became accepted as the statement of their doctrine.	94	100
+destroyed	DYNAMIC	However, the Glorious Revolution of 1688 destroyed this principle to some degree by establishing a constitutional government in England, leading to the hegemony of the Tory-opposed Whig ideology.	41	49
+see	STATIVE	Conservatives typically see Richard Hooker (1554-1600) as the founding father of conservatism, along with the Marquess of Halifax (1633-1695), David Hume (1711-1776) and Edmund Burke (1729-1797).	24	26
+accepted	STATIVE	He accepted the liberal ideals of private property and the economics of Adam Smith (1723-1790), but thought that economics should remain subordinate to the conservative social ethic, that capitalism should be subordinate to the medieval social tradition and that the business class should be subordinate to aristocracy.	3	10
+represented	STATIVE	Burke justified the social order on the basis of tradition: tradition represented the wisdom of the species and he valued community and social harmony over social reforms.	70	80
+finding	STATIVE	Burke was a leading theorist in his day, finding extreme idealism (either Tory or Whig) an endangerment to broader liberties, and (like Hume) rejecting abstract reason as an unsound guide for political theory.	41	47
+described	DYNAMIC	Burke described himself as a Whig.	6	14
+suffered	DYNAMIC	Shortly after Burke's death in 1797, conservatism revived as a mainstream political force as the Whigs suffered a series of internal divisions.	103	110
+derived	DYNAMIC	"This new generation of conservatives derived their politics not from Burke but from his predecessor, the Viscount Bolingbroke (1678-1751), who was a Jacobite and traditional Tory, lacking Burke's sympathies for Whiggish policies such as Catholic Emancipation and American independence (famously attacked by Samuel Johnson in ""Taxation No Tyranny"")."	37	43
+stood	STATIVE	Anchoring the ultra tories, Blackwood's Edinburgh Magazine stood firmly against Catholic emancipation, and favoured slavery, cheap money, mercantilism, the Navigation acts, and the Holy Alliance.	59	63
+opposed	DYNAMIC	Although conservatives opposed attempts to allow greater representation of the middle class in parliament, in 1834 they conceded that electoral reform could not be reversed and promised to support further reforms so long as they did not erode the institutions of church and state.	23	29
+saw	STATIVE	They saw the Anglican Church and the aristocracy as balances against commercial wealth.	5	7
+called	DYNAMIC	This viewpoint would later be called Tory Democracy.	30	35
+chosen	DYNAMIC	"The original name for the alliance was ""Cribs,"" a name narrowed down from a list of many options, and chosen unanimously from three final choices, which included the Black Overlords, and the Assassins."	102	107
+referred	DYNAMIC	"A Los Angeles Sentinel article in February 1972 referred to some members as ""Crips"" (for cripples)."	48	55
+worn	DYNAMIC	Williams recalled that a blue bandana was first worn by Crips founding member Buddha, as a part of his color-coordinated clothing of blue Levi's, a blue shirt, and dark blue suspenders.	48	51
+worn	DYNAMIC	A blue bandana was worn in tribute to Buddha after he was shot and killed on February 23, 1973, which eventually became the color of blue associated with Crips.	19	22
+recognized	DYNAMIC	Initially Crips leaders did not occupy leadership positions, but were recognized as leaders because of their personal charisma and influence.	70	79
+called	DYNAMIC	After a long discussion, the Pirus broke all connections to the Crips and started an organization that would later be called the Bloods, a street gang infamous for its rivalry with the Crips.	118	123
+sets	DYNAMIC	It is a popular misconception that Crips sets feud only with Bloods.	41	44
+refer	DYNAMIC	"Crips traditionally refer to each other as ""Cuzz"", which itself is sometimes used as a moniker for Crip."	20	24
+speak	DYNAMIC	Crips in prison modules during the 1970s and 80s would speak in Kiswahili to maintain privacy among guards and rival gangs.	55	59
+represented	DYNAMIC	They are often represented in Moche ceramics from Peru.	15	25
+found	STATIVE	Modern-day cultivated Cucurbita are not found in the wild.	40	44
+called	STATIVE	Gourds, also called bottle-gourds, which are used as utensils or vessels, belong to the genus Lagenaria and are native to Africa.	13	18
+provided	DYNAMIC	Later, more accurate, dating using accelerator mass spectrometers provided more specific dates.	66	73
+domesticated	DYNAMIC	Squash was domesticated first, followed by maize and then beans, becoming part of the Three Sisters agricultural system of companion planting.	11	22
+comes	STATIVE	Much of the Dukha income today comes from tourists who pay to buy their crafts and to ride their domesticated reindeer.	31	35
+mounted	DYNAMIC	The brass reed tongues are mounted on reed shoes, with each tongue nailed on with a single metal pin.	27	33
+drawn	STATIVE	"The accordion bellows has a very short ""throw"" (the maximum extension of the bellows, when drawn out), with most instruments having only four folds."	91	95
+selling	DYNAMIC	would stamp their own company name inside the instrument, or the stamp of the specific store that was selling the accordion.	102	108
+described	DYNAMIC	The Accordion of Cyril Demian (1829) described in his Austrian (at Vienna) patent application, had 5 pallets with 10 chords (musical triads) available.	37	45
+played	STATIVE	One of his models, had single notes and two rows of keys: first row the diatonic scale, the second row played the accidentals.	103	108
+listed	STATIVE	By 1845, There were many makers of accordions, listed in various journals: Alexandre, Fourneaux, Jaulin, Lebroux, Neveux, Kasriel, Leterme, Reisner, Busson, M. Klaneguisert.	47	52
+derived	DYNAMIC	It is a form of football derived from traditional Irish ball games.	25	31
+separated	STATIVE	The objective of the sport is to score points by passing the ball through the other team's goals (3 points) or a set of two upright posts separated by a crossbar above the ground (1 point).	138	146
+raising	DYNAMIC	A point is awarded for kicking or hand-passing the ball over the crossbar, signalled by the umpire raising a white flag.	99	105
+raising	DYNAMIC	A goal is awarded for kicking the ball under the crossbar into the net, signalled by the umpire raising a green flag.	96	102
+prohibited	STATIVE	Along with hurling and camogie, Gaelic football is one of the few remaining strictly amateur sports in the world, with players, coaches, and managers prohibited from receiving any form of payment.	150	159
+considered	DYNAMIC	The All-Ireland Senior Championship is run as a knock-out competition, with the top two counties meeting in the All-Ireland Football Final, considered the most prestigious event in Gaelic football.	140	149
+governed	STATIVE	Under the auspices of the GAA, Gaelic football is a male-only sport; however, the related sport of ladies' Gaelic football is governed by the Ladies' Gaelic Football Association.	126	133
+allowed	DYNAMIC	Similarities between Gaelic football and Australian rules football have allowed the development of international rules football, a hybrid sport, and a series of Test matches has been held regularly since 1998.	72	78
+named	STATIVE	The first legal reference of football in Ireland was in 1308, when John McCrocan, a spectator at a football game at Novum Castrum de Leuan (the New Castle of the Lyons or Newcastle) was charged with accidentally stabbing a player named William Bernard.	230	234
+allowed	DYNAMIC	"The Statute of Galway of 1527 allowed the playing of ""foot balle"" and archery but banned ""'hokie' — the hurling of a little ball with sticks or staves"" as well as other sports."	30	36
+proved	DYNAMIC	"It proved difficult, if not impossible, for the authorities to enforce the Act and the earliest recorded inter-county match in Ireland was one between Louth and Meath, at Slane, in 1712, about which the poet James Dall McCuairt wrote a poem of 88 verses beginning ""Ba haigeanta""."	3	8
+according	DYNAMIC	"By this time, according to Gaelic football historian Jack Mahon, even in the Irish countryside, caid had begun to give way to a ""rough-and-tumble game"" which even allowed tripping."	14	22
+adapted	DYNAMIC	Limerick was the stronghold of the native game around this time, and the Commercials Club, founded by employees of Cannock's Drapery Store, was one of the first to impose a set of rules which was adapted by other clubs in the city.	196	202
+arranged	STATIVE	Irish forms of football were not formally arranged into an organised playing code by the Gaelic Athletic Association (GAA) until 1887.	42	49
+sought	DYNAMIC	"The GAA sought to promote traditional Irish sports, such as hurling and to reject ""foreign"" (particularly English) imports."	8	13
+drawn	DYNAMIC	The first Gaelic football rules, showing the influence of hurling and a desire to differentiate from association football – for example in their lack of an offside rule — were drawn up by Maurice Davin and published in the United Ireland magazine on 7 February 1887.	176	180
+representing	DYNAMIC	The rules of the aforementioned Commercials Club became the basis for these official (Gaelic Football) rules who, unsurprisingly, won the inaugural All-Ireland Senior Football Final (representing County Limerick)	182	194
+named	DYNAMIC	Among the dead was Tipperary footballer Michael Hogan, for whom the Hogan Stand at Croke Park (completed in 1924) was named.	118	123
+attached	DYNAMIC	A net extending behind the goal is attached to the crossbar and lower goal posts.	35	42
+marked	STATIVE	Lines are marked at distances of 13 metres, 20 metres and 45 metres (65m in Hurling) from each end-line.	10	15
+named	DYNAMIC	Up to fifteen substitutes may be named on the team sheet, number 16 usually being the reserve goalkeeper.	33	37
+made	STATIVE	The game is played with a round leather football made of 18 stitched leather panels, similar in appearance to a traditional volleyball (but larger), with a circumference of , weighing between when dry.	49	52
+using	DYNAMIC	A hand pass is not a punch but rather a strike of the ball with the side of the closed fist, using the knuckle of the thumb.	93	97
+committed	DYNAMIC	Aggressive fouls are physical or verbal fouls committed by a player against an opponent or the referee.	46	54
+closed	STATIVE	A point is scored by either kicking the ball over the crossbar, or fisting it over, in which case the hand must be closed whilst striking the ball.	115	120
+gives	STATIVE	They have a U or V shaped shell in their mantle which gives them a bell shaped appearance.	54	58
+look	STATIVE	"Some have suckers, in addition to spines, on all 8 webbed tentacles while others look like a regular octopus with the addition of blue or other colored ""ears""."	81	84
+make	STATIVE	These Tentacles make the octopus classify as an Umbrella octopus.	16	19
+comes	STATIVE	The Grimpoteuthis comes in a range of different colours.	18	22
+given	STATIVE	Various species of Grimpoteuthis face few direct man-made threats given as how the various species live on average below 9,800 feet.	66	70
+designed	STATIVE	A guillotine (; ɡijɔtin) is an apparatus designed for carrying out executions by beheading.	41	48
+held	STATIVE	The condemned person is secured at the bottom of the frame, with his or her neck held directly below the blade.	81	84
+built	DYNAMIC	Antoine Louis, together with German engineer Tobias Schmidt, built a prototype for the guillotine.	61	65
+opposed	STATIVE	Schmidt recommended using an angled blade as opposed to a round one.	45	51
+mounted	STATIVE	This device was mounted on a large square platform high.	16	22
+shown	STATIVE	The executioner, who is shown wielding a large hammer, strikes down on the mechanism and drives the blade down.	24	28
+conceived	DYNAMIC	Traditional executions by decapitation via sword or axe were notably gruesome, and the device depicted in the illustration may have been conceived in an attempt to improve the accuracy and effectiveness.	137	145
+influenced	STATIVE	The group was influenced by the Italian Mannaia (or Mannaja), the Scottish Maiden and the Halifax Gibbet, which was fitted with an axe head weighing 7 pounds 12 ounces (3.5 kg).	14	23
+designed	DYNAMIC	Laquiante, an officer of the Strasbourg criminal court, designed a beheading machine and employed Tobias Schmidt, a German engineer and harpsichord maker, to construct a prototype.	56	63
+credited	STATIVE	Antoine Louis is also credited with the design of the prototype.	22	29
+claims	STATIVE	An apocryphal story claims that King Louis XVI (an amateur locksmith) recommended that a triangular blade with a beveled edge be used instead of a crescent blade, but it was Schmidt who suggested placing a straight blade at a 45 degree angle.	20	25
+domesticated	STATIVE	Horses in the subspecies caballus are domesticated, although some domesticated populations live in the wild as feral horses.	38	50
+domesticated	DYNAMIC	These feral populations are not true wild horses, as this term is used to describe horses that have never been domesticated, such as the endangered Przewalski's horse, a separate subspecies, and the only remaining true wild horse.	111	123
+enables	DYNAMIC	Horses' anatomy enables them to make use of speed to escape predators and they have a well-developed sense of balance and a strong fight-or-flight response.	16	22
+developed	STATIVE	There are more than 300 breeds of horse in the world today, developed for many different uses.	60	68
+derived	DYNAMIC	Many products are derived from horses, including meat, milk, hide, hair, bone, and pharmaceuticals extracted from the urine of pregnant mares.	18	24
+lived	DYNAMIC	"The oldest verifiable record was ""Old Billy"", a 19th-century horse that lived to the age of 62."	72	76
+listed	DYNAMIC	In modern times, Sugar Puff, who had been listed in Guinness World Records as the world's oldest living pony, died in 2007 at age 56.	42	47
+used	STATIVE	The following terminology is used to describe horses of various ages:	29	32
+refers	STATIVE	"A common terminology error is to call any young horse a ""colt"", when the term actually only refers to young male horses."	92	97
+called	DYNAMIC	A nursing foal is sometimes called a suckling and a foal that has been weaned is called a weanling.	28	33
+described	STATIVE	"Thus, a horse described as ""15.2 h"" is 15 hands plus 2 inches, for a total of 62 inches (157.5 cm) in height."	14	22
+influenced	DYNAMIC	The size of horses varies by breed, but also is influenced by nutrition.	48	57
+named	STATIVE	The largest horse in recorded history was probably a Shire horse named Mammoth, who was born in 1848.	65	69
+stood	STATIVE	He stood 21.2 1⁄2 hands (86.5 inches, 220 cm) high and his peak weight was estimated at 1,500 kilograms (3,300 lb).	3	7
+affected	STATIVE	The current record holder for the world's smallest horse is Thumbelina, a fully mature miniature horse affected by dwarfism.	103	110
+drawn	DYNAMIC	The distinction between a horse and pony is commonly drawn on the basis of height, especially for competition purposes.	53	57
+consider	STATIVE	Breed registries for horses that typically produce individuals both under and over 14.2 h consider all animals of that breed to be horses regardless of their height.	90	97
+exhibit	DYNAMIC	Ponies often exhibit thicker manes, tails, and overall coat.	13	19
+classified	STATIVE	Conversely, breeds such as the Falabella and other miniature horses, which can be no taller than 30 inches (76 cm), are classified by their registries as very small horses, not ponies.	120	129
+seen	STATIVE	"jpg|thumb|right|upright=1.4|Bay (left) and chestnut (sometimes called ""sorrel"") are two of the most common coat colors, seen in almost all breeds."	120	123
+classified	DYNAMIC	Often, a horse is classified first by its coat color, before breed or sex.	18	27
+be	DYNAMIC	Horses of the same color may be distinguished from one another by white markings, which, along with various spotting patterns, are inherited separately from coat color.	29	30
+identified	DYNAMIC	Many genes that create horse coat colors and patterns have been identified.	64	74
+identify	DYNAMIC	Current genetic tests can identify at least 13 different alleles influencing coat color, and research continues to discover new genes linked to specific traits.	26	33
+found	STATIVE	Additional genes control suppression of black color to point coloration that results in a bay, spotting patterns such as pinto or leopard, dilution genes such as palomino or dun, as well as graying, and all the other factors that create the many possible coat colors found in horses.	267	271
+are	DYNAMIC	"Horses which have a white coat color are often mislabeled; a horse that looks ""white"" is usually a middle-aged or older gray."	37	39
+defined	STATIVE	"However, there are no ""albino"" horses, defined as having both pink skin and red eyes."	39	45
+continues	DYNAMIC	Horses four years old are considered mature, although the skeleton normally continues to develop until the age of six; maturation also depends on the horse's size, breed, sex, and quality of care.	76	84
+do	STATIVE	Larger horses have larger bones; therefore, not only do the bones take longer to form bone tissue, but the epiphyseal plates are larger and take longer to convert from cartilage to bone.	53	54
+fixed	STATIVE	Finally, there have been cases where the term of a monarch’s reign is either fixed in years or continues until certain goals are achieved: an invasion being repulsed, for instance.	77	81
+appear	STATIVE	Although they reign under constitutions, the monarchs of Brunei, Oman, Qatar, Saudi Arabia and Swaziland appear to continue to exercise more political influence than any other single source of authority in their nations, either by constitutional mandate or by tradition.	105	110
+refers	DYNAMIC	In current usage the word monarchy usually refers to a traditional system of hereditary rule, as elective monarchies are rare nowadays.	43	48
+continued	STATIVE	"The sacral function of kingship was transformed into the notion of ""Divine right of kings"" in the Christian Middle Ages, while the Chinese, Japanese and Nepalese monarchs continued to be considered living Gods into the modern period."	171	179
+followed	DYNAMIC	The modern resurgence of parliamentarism and anti-monarchism began with the temporary overthrow of the English monarchy by the Parliament of England in 1649, followed by the American Revolution of 1776 and the French Revolution of 1792.	158	165
+hold	STATIVE	Monarchies are associated with political or sociocultural hereditary rule, in which monarchs rule for life (although some monarchs do not hold lifetime positions: for example, the Yang di-Pertuan Agong of Malaysia serves a five-year term) and pass the responsibilities and power of the position to their child or another member of their family when they die.	138	141
+claims	DYNAMIC	A self-proclaimed monarchy is established when a person claims the monarchy without any historical ties to a previous dynasty.	56	61
+refer	STATIVE	The Mursi (or Mun as they refer to themselves) are a Nilotic pastoralist ethnic group that inhabits southwestern Ethiopia.	26	30
+speak	STATIVE	The Mursi speak the Mursi language as a mother tongue.	10	14
+classified	STATIVE	It is classified as Surmic, which is a branch of the Nilo-Saharan language family.	6	15
+provides	DYNAMIC	The religion of the Mursi people is classified as Animism, although there is a Serving in Mission Station in the northeastern corner of Mursiland, which provides education, basic medical care and instruction in Christianity.	153	160
+worn	STATIVE	Similar body ornaments are worn by both sexes of the Suyá people, a Brazilian tribe, and by men among the Kayapo.	27	30
+completed	STATIVE	The Gibe III hydroelectric dam, now under construction in the middle Basin of the Omo and due to be completed in 2014, will greatly modify the flood regime upon which thousands of people in the lower basin depend for their livelihoods.	100	108
+had	DYNAMIC	38%-50% of the American Adult population who come close to clinical death have had a near-death experience.	79	81
+divided	DYNAMIC	Explanatory models for the NDE can be divided into several broad categories, including psychological, physiological, and transcendental explanations.	38	44
+explains	DYNAMIC	Research from neuroscience explains the NDE in terms of various physiological and psychological factors, while some NDE researchers in the field of near-death studies advocate for a transcendental explanation.	27	34
+argues	DYNAMIC	Bruce Greyson argues that the general features of the experience include impressions of being outside one's physical body, visions of deceased relatives and religious figures, and transcendence of egotic and spatiotemporal boundaries.	14	19
+experiencing	DYNAMIC	Many common elements have been reported, although the person's interpretation of these events often corresponds with the cultural, philosophical, or religious beliefs of the person experiencing it.	181	192
+follows	DYNAMIC	Even though no single feature is found in every NDE, the traits that have been reported by NDErs are as follows:	104	111
+accompanied	DYNAMIC	* Approaching a border, or a decision by oneself or others to return to one's body, often accompanied by a reluctance to return.	90	100
+according	STATIVE	Anywhere from one percent (according to a 1982 Gallup poll) to 20 percent of subjects may have distressing experiences and feel terrified or uneasy as various parts of the NDE occur, they visit or view dark and depressing areas or are accosted by what seem to be hostile or oppositional forces or presences.	26	35
+marked	DYNAMIC	Persons having bad experiences were not marked by more religiosity or suicidal background.	40	45
+reserved	STATIVE	In the Amazon, the term pacu is reserved to smaller and medium sized fish in the Metynnis, Mylossoma and Myleus genera.	32	39
+form	STATIVE	Pacus inhabit most rivers and streams in the Amazon and Orinoco river basins of lowland Amazonia, where they form part of the highly diverse Neotropical fish fauna.	109	112
+pulled	DYNAMIC	In August 2013 a Pacu was discovered in Scandinavian waters, a fisherman pulled a 21 cm (8.27 inch) specimen from Øresund Sound off Sweden's south coast.	73	78
+needed	DYNAMIC	One toddler needed surgery after a pacu (misreported as a piranha) bit her finger at Edinburgh Butterfly and Insect World in Scotland.	12	17
+according	STATIVE	Most UK dealers now refuse to stock this species due to the large size and expensive aquarium requirements it demands, according to Practical Fishkeeping magazine's Matt Clarke.	119	127
+cut	STATIVE	State wildlife authorities typically advise home aquarists who wish to get rid of overgrown pacu to cut the heads off the fish and dispose of them as garbage.	100	102
+allowing	DYNAMIC	We used to fish for the latter variety in the quiet pools while allowing the canoe to drift, and always saved some of the fish as bait for the big fellows.	64	71
+does	DYNAMIC	We fished for the pacu as the native does, kneading a ball of mandioc farina with water and placing it on the hook as bait.	37	41
+including	DYNAMIC	More recently, South American rivers including the Amazon have become a popular destination for recreational anglers, who go to fly fish for pacu.	37	45
+sponsored	DYNAMIC	The International Game Fishing Organization has sponsored fly-fishing courses for native Brazilian fishermen, typically accustomed to subsistence fishing, so they can work as guides to fishing tourists.	48	56
+experiencing	STATIVE	Today, the Amazon river is experiencing a crisis of overfishing.	27	38
+shows	STATIVE	"Research shows that the ""flavor of [farmed] pacu is comparable to that of hybrid striped bass, tilapia, and rainbow trout, but superior to catfish."""	9	13
+provides	DYNAMIC	Heather Candelaria provides a recipe and preparation instructions on the Greater Seattle Aquarium Society's Web site.	19	26
+compared	STATIVE	In standard poker, each player bets according to the rank he believes his hand is worth as compared to the other players.	91	98
+folded	DYNAMIC	The betting round ends when all players have either matched the last bet or folded.	76	82
+placed	DYNAMIC	With the exception of initial forced bets, money is only placed into the pot voluntarily by a player who either believes the bet has positive expected value or who is trying to bluff other players for various strategic reasons.	57	62
+chosen	STATIVE	Thus, while the outcome of any particular hand significantly involves chance, the long-run expectations of the players are determined by their actions chosen on the basis of probability, psychology and game theory.	151	156
+gone	DYNAMIC	Poker has gained in popularity since the beginning of the twentieth century, and has gone from being primarily a recreational activity confined to small groups of enthusiasts, to a widely popular activity, both for participants and spectators, including online, with many professional players and multi-million dollar tournament prizes.	85	88
+depicted	DYNAMIC	By the 1980s, poker was being depicted in popular culture as a commonplace recreational activity.	30	37
+featured	DYNAMIC	For example, it was featured in at least 10 episodes of Star Trek: The Next Generation as a weekly event of the senior staff of the fictional ship's crew.	20	27
+follow	DYNAMIC	Not only could viewers now follow the action and drama of the game on television, they could also play the game in the comfort of their own home.	27	32
+marked	STATIVE	In casual play, the right to deal a hand typically rotates among the players and is marked by a token called a dealer button (or buck).	84	89
+is	DYNAMIC	In a casino, a house dealer handles the cards for each hand, but the button (typically a white plastic disk) is rotated clockwise among the players to indicate a nominal dealer to determine the order of betting.	109	110
+required	DYNAMIC	One or more players are usually required to make forced bets, usually either an ante or a blind bet (sometimes both).	32	39
+following	STATIVE	Poker has many variations, all following a similar pattern of play and generally using the same hand ranking hierarchy.	31	39
+led	STATIVE	There were also reformational efforts throughout continental Europe known as the Radical Reformation — a response to perceived corruption in both the Roman Catholic Church and the expanding Magisterial Reformation led by Luther and various other reformers — which gave rise to Anabaptist, Moravian, and other Pietistic movements.	214	216
+derived	STATIVE	"The etymology of the word protestant is derived from Latin, pro (""for"") and testari (""witness"") and/or protestatio (""declare"")."	40	46
+are	DYNAMIC	;Justification by faith alone: The belief that believers are justified, or pardoned for sin, solely on condition of faith in Christ rather than a combination of faith and good works.	57	59
+puts	STATIVE	It is opposed to the hierarchical system which puts the essence and authority of the Church in an exclusive priesthood, and makes ordained priests the necessary mediators between God and the people.	47	50
+reject	STATIVE	Others, beginning with the Polish Brethren and sustained by the Unitarians in Transylvania, England and the United States, reject the Trinity.	123	128
+comes	STATIVE	This idea contains the four main doctrines on the Bible: that its teaching is needed for salvation (necessity); that all the doctrine necessary for salvation comes from the Bible alone (sufficiency); that everything taught in the Bible is correct (inerrancy); and that, by the Holy Spirit overcoming sin, believers may read and understand truth from the Bible itself, though understanding is difficult, so the means used to guide individual believers to the true teaching is often mutual discussion within the church (clarity).	158	162
+consider	STATIVE	Psychologists of diverse orientations also consider the unconscious mind.	43	50
+directed	STATIVE	While psychological knowledge is often applied to the assessment and treatment of mental health problems, it is also directed towards understanding and solving problems in many different spheres of human activity.	117	124
+employed	STATIVE	Some are employed in industrial and organizational settings, or in other areas such as human development and aging, sports, health, and the media, as well as in forensic investigation and other aspects of law.	9	16
+covered	DYNAMIC	Historians note that Greek philosophers, including Thales, Plato, and Aristotle (especially in his De Anima treatise), covered the workings of the mind in their writings.	119	125
+credited	STATIVE	German physician Wilhelm Wundt is credited with introducing psychological discovery into a laboratory setting.	34	41
+laid	DYNAMIC	In his book, The Principles of Psychology, published in 1890, he laid the foundations for many of the questions that psychologists would explore for years to come.	65	68
+provided	DYNAMIC	These were largely considered taboo subjects at the time, and Freud provided a catalyst for them to be openly discussed in polite society.	68	75
+maintained	STATIVE	"Meanwhile, however, researchers in the emerging field of neuro-psychoanalysis defended some of Freud's ideas on scientific grounds, while scholars of the humanities maintained that Freud was not a ""scientist at all, but ... an interpreter."""	165	174
+named	STATIVE	Each member of the family is named after the root note produced by the second partial with no valves actuated.	29	33
+was	DYNAMIC	Sax's claim to have invented the instrument was hotly contested by other brass instrument makers during his lifetime, leading to various lawsuits.	44	46
+works	STATIVE	"Contemporary works featuring this instrument are Désiré Dondeyne's ""Tubissimo"" for bass tuba or saxhorn and piano (1983) and Olivier Messiaen's ""Et exspecto resurrectionem mortuorum"" (1984)."	13	17
+is	DYNAMIC	It is distinguished technically by the fact that the ray flowers, when present, are sterile, and by the presence on the disk flowers of a pappus that is of two awn-like scales that are cauducous (that is, easily detached and falling at maturity).	3	4
+make	STATIVE	There is quite a bit of variability among the perennial species that make up the bulk of the species in the genus.	69	72
+listed	DYNAMIC	Whorled sunflowers, Helianthus verticillatus, were listed as an endangered species in 2014 when the U.S.	51	56
+found	STATIVE	They grow to six feet tall and are primarily found in woodlands, adjacent to creeks and moist, prairie-like areas.	45	49
+leaves	STATIVE	The petiolate leaves are dentate and often sticky.	14	19
+governed	DYNAMIC	Theocracy is a form of government in which clergy have official recognition as the civil ruler and official policy is either governed by officials regarded as divinely guided, or is pursuant to the doctrine of a particular religion or religious group.	125	132
+recognized	STATIVE	"From the perspective of the theocratic government, ""God himself is recognized as the head"" of the state, hence the term theocracy, from the Koine Greek grc ""rule of God"", a term used by Josephus for the kingdoms of Israel and Judah."	67	76
+defined	DYNAMIC	The common, generic use of the term, as defined above in terms of rule by a church or analogous religious leadership, would be more accurately described as an ecclesiocracy.	40	46
+claim	DYNAMIC	An ecclesiocracy, on the other hand, is a situation where the religious leaders assume a leading role in the state, but do not claim that they are instruments of divine revelation.	127	131
+occupied	STATIVE	The papacy in the Papal States occupied a middle ground between theocracy and ecclesiocracy, since the pope did not claim he was a prophet who received revelation from God and translated it into civil law.	31	38
+specified	DYNAMIC	In the most common usage of the term, some civil rulers are leaders of the dominant religion (e.g., the Byzantine emperor as patron and defender of the official Church); the government proclaims it rules on behalf of God or a higher power, as specified by the local religion, and divine approval of government institutions and laws.	243	251
+governed	DYNAMIC	For example, in Israel marriage is governed by officially recognized religious bodies who each provide marriage services for their respected adherents, yet no form of civil marriage (free of religion, for atheists, for example) exists nor marriage by non-recognized minority religions.	35	42
+recognized	STATIVE	Josephus argued that while the Greeks recognized three types of government: monarchy, aristocracy, and anarchy, the Jews were unique in that they had a system of government that did not fit into those categories.	38	47
+included	DYNAMIC	The head of state of the Vatican is the pope, elected by the College of Cardinals, an assembly of Senatorial-princes of the Church, who are usually clerics, appointed as Ordinaries, but in the past have also included men who were not bishops nor clerics.	208	215
+implemented	DYNAMIC	An Islamic state is a state that has adopted Islam, specifically Sharia, as its foundations for political institutions, or laws, exclusively, and has implemented the Islamic ruling system khilafah (Arabic: خلافة), and is therefore a theocracy.	150	160
+provides	STATIVE	In Nigeria, the constitution provides that states may elect to use Shari'a laws and courts, though non-Muslims are not required in any state to submit to Shari'a jurisdiction and adherence varies by state.	29	36
+falls	STATIVE	Pakistan has Islam as its only official religion and its Federal Shariat Court has the duty of striking down any law not complying with the Sharia code of Islamic law; however, ruling falls upon legal scholars who, while required to be Muslim, are not religious clerics.	184	188
