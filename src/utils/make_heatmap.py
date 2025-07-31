@@ -19,6 +19,7 @@ def make_heatmap(infile: str, outfile: str, name: str = "", metric: str = "Accur
 
     logging.debug("Making heatmap")
     data = pd.read_csv(infile)
+    data['Token Position'] = data['Token Position'].apply(lambda x: x - 10)
     if not name:
         logging.debug(f"No given name, making one using {outfile}")
         name = outfile.split("/")[-1].split(".png")[0]
@@ -32,5 +33,6 @@ def make_heatmap(infile: str, outfile: str, name: str = "", metric: str = "Accur
     )
     plt.title(f"Experiment {name}: {metric} Heatmap")
     plt.gca().invert_yaxis()
+    plt.tight_layout()
     plt.savefig(outfile)
     logging.debug("Heatmap saved")
