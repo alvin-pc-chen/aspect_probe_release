@@ -1,14 +1,14 @@
 python ../src/run.py \
     --log_level INFO \
-    --log_file ../model_outputs/logs/multi_32_epochs_2.log \
+    --log_file ../model_outputs/logs/linear_example.log \
     probe \
-    --results_path ../model_outputs/results/multi_32_epochs_2.csv \
-    --heatmap_path ../model_outputs/heatmaps/multi_32_epochs_2.png \
+    --results_path ../model_outputs/results/linear_example.csv \
+    --heatmap_path ../model_outputs/heatmaps/linear_example.png \
     --train_dir ../data/experiment_ready/train \
     --test_dir ../data/experiment_ready/test \
-    --exp_name multi_32_epochs_2 \
+    --exp_name linear_example \
     --device mps \
-    --probe multi \
+    --probe linear \
     --epochs 32 \
     --train_batch_size 16 \
     --learn_rate 0.01 \
