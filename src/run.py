@@ -40,31 +40,27 @@ def main(argv):
     args.func(**clkwargs)
 
 
-def make():
+def make(
+    original_path: str,
+    cleaned_path: str,
+    hidden_dir: str,
+    experiment_dir: str,
+    model_name: str,
+    device: str,
+):
     """
     Runs through all steps necessary to prepare data for experiment.
     """
-
-    original_train = "../data/original/sitent-ambiguous_train.tsv"
-    cleaned_train = "../data/cleaned/train.tsv"
-    hidden_train = "../data/hidden_layers/train/"
-    experiment_train = "../data/experiment_ready/train/"
-
-    original_test = "../data/original/sitent-ambiguous_test.tsv"
-    cleaned_test = "../data/cleaned/test.tsv"
-    hidden_test = "../data/hidden_layers/test/"
-    experiment_test = "../data/experiment_ready/test/"
-
-    make_clean_data(infile=original_train, outfile=cleaned_train)
-    make_hidden_states(infile=cleaned_train, outdir=hidden_train)
-    make_probing_data(
-        infile=cleaned_train, hl_dir=hidden_train, outdir=experiment_train, device="mps"
+    make_clean_data(infile=original_path, outfile=cleaned_path)
+    make_hidden_states(
+        infile=cleaned_path, outdir=hidden_dir, model_name=model_name, device=device
     )
-
-    make_clean_data(infile=original_test, outfile=cleaned_test)
-    make_hidden_states(infile=cleaned_test, outdir=hidden_test)
     make_probing_data(
-        infile=cleaned_test, hl_dir=hidden_test, outdir=experiment_test, device="mps"
+        infile=cleaned_path,
+        hl_dir=hidden_dir,
+        outdir=experiment_dir,
+        model_name=model_name,
+        device=device,
     )
 
 

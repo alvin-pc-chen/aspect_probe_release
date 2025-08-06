@@ -1,6 +1,7 @@
 import torch
 import pandas as pd
 from transformers import AutoTokenizer
+from tqdm import tqdm
 
 import os
 import pickle
@@ -47,20 +48,22 @@ def make_probing_data(
 
     # For each input sentence, find valid token positions within range ±10
     # from the first token in the verb.
-    layer_indices = {}
+    input_indices = []
     for i in range(len(texts)):
         tokens = tokenizer(texts[i], return_tensors="pt")
         center = tokens.char_to_token(spans[i])
+        indices = []
         for j in range(21):
             idx = center - 10 + j
             if idx < 0 or idx >= tokens.input_ids.shape[1]:
                 continue
-            if i not in layer_indices:
-                layer_indices[i] = []
-            layer_indices[i].append(idx)
+            indices.append((j, idx))
+        input_indices.append(indices)
 
     layer_paths = glob(f"{hl_dir}/layer*")
     layer_paths.sort(key=lambda x: int(x.split("/")[-1].split("layer")[-1]))
+
+    print(f"Making probing data from {infile}...")
 
     for layer_count, layer_path in enumerate(layer_paths):
         outpath = f"{outdir}/layer{layer_count}/"
@@ -76,17 +79,15 @@ def make_probing_data(
 
         ts = [[] for _ in range(21)]
         ls = [[] for _ in range(21)]
-        for idx, tensor in enumerate(tensors):
-            tensor = tensor.squeeze(0)
-            for i, j in enumerate(layer_indices[idx]):
-                try:
-                    ts[i].append(tensor[j])
-                    ls[i].append(
+        for i, tensor in enumerate(tqdm(tensors, desc=f"Layer {layer_count + 1}/{len(layer_paths)}")):
+            for j, idx in input_indices[i]:
+                tensor_sq = tensor.squeeze(0)
+                ts[j].append(tensor_sq[idx])
+                ls[j].append(
                         torch.tensor((0, 1), dtype=torch.float16, device=device)
-                        if labels[idx] == 1
+                        if labels[i] == 1
                         else torch.tensor((1, 0), dtype=torch.float16, device=device)
                     )
-                except IndexError:
-                    continue
-        for j in range(len(ts)):
-            pickle.dump((ls[j], ts[j]), open(f"{outpath}/position{j}.pkl", "wb"))
+        for position in range(len(ts)):
+            print(f"{position}: {len(ts[position])}")
+            pickle.dump((ls[position], ts[position]), open(f"{outpath}/position{position}.pkl", "wb"))

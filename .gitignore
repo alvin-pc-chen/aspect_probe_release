@@ -2,6 +2,7 @@
 data/experiment_ready/
 data/hidden_layers/
 model_outputs/saved_weights/
+model_outputs/logs/
 
 # Notebooks
 .ipynb_checkpoints

@@ -1,8 +1,8 @@
-# aspect_probe_release
-Probing bert-large-uncased for representations of linguistic aspect.
+# Scanning Machine Brains: Probing LLMs for Aspect
+Code from my investigation detailed in [this blog post](https://alvin-pc-chen.github.io/blog/2025/probing/).
 
 ## Usage
-To run an example test, first make experiment ready data using `scripts/make_example_data.sh` before running `run_example.sh`. Documentation is available in each file for customization; full guide forthcoming.
+To run an example test, first make experiment ready data using `scripts/make_example_data.sh` before running `run_example.sh`. Scripts are written to be run on Apple Silicon, change "--device mps" to "cuda" to run on GPU. Documentation is available in each file for customization; full guide forthcoming.
 
 ## Data
 Data used in this example is taken from the SitEnt-ambig subset of the DIASPORA dataset. Citation:

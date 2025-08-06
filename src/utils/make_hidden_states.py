@@ -1,4 +1,4 @@
-import tqdm
+from tqdm import tqdm
 import torch
 import pandas as pd
 from transformers import AutoModelForMaskedLM, AutoTokenizer
@@ -10,6 +10,7 @@ def make_hidden_states(
     infile: str,
     outdir: str,
     model_name: str = "google-bert/bert-large-uncased",
+    device: str = "auto",
 ):
     """
     Passes input sentences through model and extracts output tensors at each
@@ -32,11 +33,12 @@ def make_hidden_states(
         torch_dtype=torch.float16,
         attn_implementation="sdpa",
     )
+    model.to(device)
     tokenizer = AutoTokenizer.from_pretrained(
         model_name,
     )
 
-    for i, input in enumerate(tqdm.tqdm(input_data)):
+    for i, input in enumerate(tqdm(input_data, desc="make_hidden_states")):
         inputs = tokenizer(input, return_tensors="pt", padding=True, truncation=True)
         inputs = inputs.to(model.device)
 
@@ -48,3 +50,8 @@ def make_hidden_states(
         for j, hs in enumerate(hidden_states):
             os.makedirs(f"{outdir}/layer{j}/", exist_ok=True)
             torch.save(hs, f"{outdir}/layer{j}/input{i}.pt")
+
+        if device == "mps":
+            torch.mps.empty_cache()
+        elif device == "cuda":
+            torch.cuda.empty_cache()

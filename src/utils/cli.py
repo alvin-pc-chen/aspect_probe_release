@@ -1,7 +1,7 @@
 import argparse
 import logging
 
-
+# TODO: separate parsers for run and make, use pathlib instead of strings, make diskmanager
 def _add_global_args(parser, is_subparser=False):
     group = parser.add_argument_group("global options")
     return (
@@ -27,6 +27,57 @@ def _add_global_args(parser, is_subparser=False):
     )
 
 
+def _add_make_args(parser, required=True):
+    return (
+        parser.add_argument(
+            "-o",
+            "--original_path",
+            type=str,
+            required=required,
+            help=(f"Path to original tsv." f"{' Required.' if required else ''}"),
+        ),
+        parser.add_argument(
+            "-c",
+            "--cleaned_path",
+            type=str,
+            required=required,
+            help=(f"Path to cleaned tsv." f"{' Required.' if required else ''}"),
+        ),
+        parser.add_argument(
+            "--hidden_dir",
+            type=str,
+            required=required,
+            help=(
+                f"Path to hidden states directory."
+                f"{' Required.' if required else ''}"
+            ),
+        ),
+        parser.add_argument(
+            "--experiment_dir",
+            type=str,
+            required=required,
+            help=(
+                f"Path to experiment ready directory."
+                f"{' Required.' if required else ''}"
+            ),
+        ),
+        parser.add_argument(
+            "-m",
+            "--model_name",
+            type=str,
+            default="google-bert/bert-large-uncased",
+            help="Base LLM for generating hidden state embeddings.",
+        ),
+        parser.add_argument(
+            "--device",
+            type=str,
+            default="auto",
+            choices=["auto", "cpu", "cuda", "mps"],
+            help="Target device for loading models/tokenizers. Defaults to 'auto'.",
+        ),
+    )
+
+
 def _add_path_args(parser, required=True):
     return (
         parser.add_argument(
@@ -42,10 +93,7 @@ def _add_path_args(parser, required=True):
             "--heatmap_path",
             type=str,
             required=required,
-            help=(
-                "Path to save heatmap png." 
-                f"{' Required.' if required else ''}"
-            ),
+            help=("Path to save heatmap png." f"{' Required.' if required else ''}"),
         ),
         parser.add_argument(
             "--train_dir",
@@ -69,9 +117,7 @@ def _add_path_args(parser, required=True):
             "-s",
             "--save_path",
             type=str,
-            help=(
-                "Path to save trained probes, doesn't save if not given."
-            ),
+            help=("Path to save trained probes, doesn't save if not given."),
         ),
     )
 
@@ -155,3 +201,4 @@ _add_hyperparameter_args(probe_parser)
 make_parser = subparsers.add_parser(
     "make",
 )
+_add_make_args(make_parser)

@@ -2,6 +2,7 @@ import torch
 from torch.utils.data import DataLoader
 from sklearn import metrics
 from glob import glob
+from tqdm import tqdm
 
 import logging
 import os
@@ -23,7 +24,7 @@ def run_probe_experiment(
     test_batch_size: int = 16,
     loss_fn=torch.nn.CrossEntropyLoss(),
     # TODO: allow other optimizers
-    device: str = "mps",
+    device: str = "auto",
     save_path: str = "",
 ) -> List[dict]:
     """
@@ -100,7 +101,10 @@ def run_probe_experiment(
         if save_path:
             os.makedirs(f"{save_path}/layer{layer}/", exist_ok=True)
 
-        for position in range(len(train_position_paths)):
+        for position in tqdm(
+            range(len(train_position_paths)),
+            desc=f"Layer {layer + 1}/{len(train_layers)}",
+        ):
 
             labels, tensors = pickle.load(open(train_position_paths[position], "rb"))
             ds = CustomDataset(labels, tensors, tensors[0].shape.numel())
@@ -171,6 +175,12 @@ def run_probe_experiment(
                     f"Probe for Layer {layer}, Position {position} saved at {current_save_path}."
                 )
 
-            torch.mps.empty_cache()
+            
+            if device == "mps":
+                torch.mps.empty_cache()
+            elif device == "cuda":
+                torch.cuda.empty_cache()
+            del classifier
+            del optimizer
 
     return results
